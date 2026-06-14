@@ -46,4 +46,4 @@
 
 ---
 
-- [← Назад](series_29_voice/07_beyond_the_threshold.md) | [→ Оглавление ](00_README.md)
+- [← Назад](series_29_voice/07_beyond_the_threshold.md) | [→ Оглавление →](00_README.md)

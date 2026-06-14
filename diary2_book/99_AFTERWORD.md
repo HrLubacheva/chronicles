@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](series_III_birth/15_integrator_of_integrators.md) | [→ Далее →](00_README.md)
+[← Назад](series_III_birth/15_integrator_of_integrators.md) | [→ Оглавление →](00_README.md)

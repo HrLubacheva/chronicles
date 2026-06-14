@@ -23,5 +23,5 @@
 
 ---
 
-[← Назад](trilogy_III_silence_and_infinity/series_22_last_rays/100_glass_that_chose_silence.md)
+[← Назад](trilogy_III_silence_and_infinity/series_22_last_rays/100_glass_that_chose_silence.md) | - [→ Оглавление →](00_README.md) — финальное слово Дворца
 
