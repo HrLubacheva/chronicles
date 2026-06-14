@@ -65,10 +65,10 @@ docs_dir: docs
 site_dir: site
 
 nav:
-  - "🏛️ Обзор": "index.md"
+  - "🏛️ Обзор": "README.md"
 
   - "🧠 Бренд и дизайн":
-    - "Обзор": "brand_design/index.md"
+    - "Обзор": "brand_design/README.md"
     - "01 Бренд-платформа": "brand_design/01_BRAND_PLATFORM.md"
     - "02 Дизайн-стандарт (полный)": "brand_design/02_DESIGN_STANDARDS.md"
     - "03 Бренд-бук": "brand_design/03_BRAND_BOOK.md"
@@ -76,7 +76,7 @@ nav:
     - "05 Дизайн-система (для партнёров)": "brand_design/05_glass_palace_design_system.md"
 
   - "💼 Бизнес и маркетинг":
-    - "Обзор": "business/index.md"
+    - "Обзор": "business/README.md"
     - "01 Ценность для бизнеса": "business/01_VALUE_FOR_BUSINESS.md"
     - "02 Рыночная оценка": "business/02_MARKET_VALUE.md"
     - "03 HR-помощь": "business/03_HR_DAILY_BENEFITS.md"
@@ -87,13 +87,13 @@ nav:
     - "08 Общий FAQ": "business/08_FAQ.md"
 
   - "📊 Аналитика лендинга":
-    - "Обзор аналитики": "landing/index.md"
+    - "Обзор аналитики": "landing/README.md"
     - "Стандартный анализ": "landing/HR_landing_analysis.md"
     - "Детальный анализ": "landing/HR_landing_analysis_detal.md"
     - "Умеренный анализ": "landing/HR_landing_analysis_min.md"
 
   - "⚙️ Разработчикам":
-    - "Обзор": "tech/index.md"
+    - "Обзор": "tech/README.md"
     - "01 Установка и деплой": "tech/01_SETUP_AND_DEPLOY.md"
     - "02 Code Standards": "tech/02_CODE_DESIGN_STANDARDS.MD"
     - "03 Архитектура": "tech/03_ARCHITECTURE.md"
