@@ -73,8 +73,6 @@
 
 [→ Далее → к первой главе](trilogy_0_prologue/series_0_beginnings/01_first_stone.md)
 
-[→ Стеклянный дворец доверия](../README.md)
-
 ---
 
 ## Содержание

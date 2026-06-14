@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](19_who_returned_to_old.md) | [→ Далее →](../../99_AFTERWORD.md)
+[← Назад](19_who_returned_to_old.md) | [→ Далее →](../99_AFTERWORD.md)
