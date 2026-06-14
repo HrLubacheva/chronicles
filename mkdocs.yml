@@ -1,0 +1,102 @@
+# mkdocs.yml – конфигурация портала документации «Стеклянный дворец доверия»
+site_name: "Стеклянный дворец доверия"
+site_lang: ru
+site_description: "Бренд-платформа, дизайн-стандарты, техническая документация"
+site_url: "https://HrLubacheva.github.io/hr-premium-landing/"
+repo_url: "https://github.com/hrLubacheva/hrLubacheva.github.io"
+edit_uri: edit/main/docs/
+
+# Мета-теги для отключения автоматического перевода
+extra_head:
+  - <meta http-equiv="Content-Language" content="ru">
+  - <meta name="google" content="notranslate">
+  - <meta name="yandex" content="noyaca">
+
+theme:
+  name: material
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-sunny
+        name: Светлая тема
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/weather-night
+        name: Тёмная тема
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - navigation.top
+    - navigation.indexes
+    - toc.integrate
+    - search.highlight
+    - search.suggest
+    - content.code.copy
+  font:
+    text: Inter
+    code: JetBrains Mono
+
+extra_css:
+  - stylesheets/glass-theme.css
+
+plugins:
+  - search
+  - git-revision-date-localized
+  - minify
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - attr_list
+  - md_in_html
+  - tables
+
+docs_dir: docs
+site_dir: site
+
+nav:
+  - "🏛️ Обзор": "index.md"
+
+  - "🧠 Бренд и дизайн":
+    - "Обзор": "brand_design/index.md"
+    - "01 Бренд-платформа": "brand_design/01_BRAND_PLATFORM.md"
+    - "02 Дизайн-стандарт (полный)": "brand_design/02_DESIGN_STANDARDS.md"
+    - "03 Бренд-бук": "brand_design/03_BRAND_BOOK.md"
+    - "04 Манифест": "brand_design/04_BRAND_ESSENCE.md"
+    - "05 Дизайн-система (для партнёров)": "brand_design/05_glass_palace_design_system.md"
+
+  - "💼 Бизнес и маркетинг":
+    - "Обзор": "business/index.md"
+    - "01 Ценность для бизнеса": "business/01_VALUE_FOR_BUSINESS.md"
+    - "02 Рыночная оценка": "business/02_MARKET_VALUE.md"
+    - "03 HR-помощь": "business/03_HR_DAILY_BENEFITS.md"
+    - "04 Разбор цены": "business/04_COST_BREAKDOWN.md"
+    - "05 Квиз: FAQ": "business/05_QUIZ_FAQ.md"
+    - "06 Почему такой дизайн": "business/06_DESIGN_EXPLANATION.md"
+    - "07 Технические особенности": "business/07_DEV_FEATURES.md"
+    - "08 Общий FAQ": "business/08_FAQ.md"
+
+  - "📊 Аналитика лендинга":
+    - "Обзор аналитики": "landing/index.md"
+    - "Стандартный анализ": "landing/HR_landing_analysis.md"
+    - "Детальный анализ": "landing/HR_landing_analysis_detal.md"
+    - "Умеренный анализ": "landing/HR_landing_analysis_min.md"
+
+  - "⚙️ Разработчикам":
+    - "Обзор": "tech/index.md"
+    - "01 Установка и деплой": "tech/01_SETUP_AND_DEPLOY.md"
+    - "02 Code Standards": "tech/02_CODE_DESIGN_STANDARDS.MD"
+    - "03 Архитектура": "tech/03_ARCHITECTURE.md"
+    - "04 API Reference": "tech/04_API_REFERENCE.md"
+    - "05 Style Guide": "tech/05_STYLE_GUIDE.md"
+    - "06 Changelog": "tech/06_CHANGELOG.md"
