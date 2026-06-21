@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](06_glass_heritage.md) | [→ Далее →](../series_3_maturity/01_where_glass_meets_silence.md)
+[← Назад ←](06_glass_heritage.md) | [→ Далее →](../series_3_maturity/01_where_glass_meets_silence.md)
 
 ---
 

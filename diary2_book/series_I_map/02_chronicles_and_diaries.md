@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](01_how_many_books.md) | [→ Далее →](03_what_is_diary2.md)
+[← Назад ←](01_how_many_books.md) | [→ Далее →](03_what_is_diary2.md)

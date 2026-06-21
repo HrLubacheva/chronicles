@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](03_bridge_through_basket.md) | [→ Далее →](05_disappeared_twin.md)
+[← Назад ←](03_bridge_through_basket.md) | [→ Далее →](05_disappeared_twin.md)
 
 ---
 

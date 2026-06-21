@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](70_review_button_missing.md) | [→ Далее →](72_hidden_price.md)
+[← Назад ←](70_review_button_missing.md) | [→ Далее →](72_hidden_price.md)

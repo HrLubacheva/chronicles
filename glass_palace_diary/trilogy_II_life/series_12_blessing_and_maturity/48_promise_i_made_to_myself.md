@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](47_one_day_in_life_of_script.md) | [→ Далее →](49_architect_lost_phone.md)
+[← Назад ←](47_one_day_in_life_of_script.md) | [→ Далее →](../series_13_small_joys_and_losses/49_architect_lost_phone.md)

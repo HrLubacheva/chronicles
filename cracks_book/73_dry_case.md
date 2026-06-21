@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](72_hidden_price.md) | [→ Далее →](74_broken_screenshot.md)
+[← Назад ←](72_hidden_price.md) | [→ Далее →](74_broken_screenshot.md)

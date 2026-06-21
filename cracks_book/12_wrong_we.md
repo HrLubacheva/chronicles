@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](11_disappeared_twin.md) | [→ Далее →](13_noise_in_telegram.md)
+[← Назад ←](11_disappeared_twin.md) | [→ Далее →](13_noise_in_telegram.md)

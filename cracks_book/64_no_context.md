@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](63_telegram_ignored.md) | [→ Далее →](65_no_confirmation.md)
+[← Назад ←](63_telegram_ignored.md) | [→ Далее →](65_no_confirmation.md)

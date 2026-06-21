@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](02_thanks_for_reading.md) | [→ Далее →](../../trilogy_II_rebirth_and_perfection/series_4_rebirth/01_glass_audit.md)
+[← Назад ←](02_thanks_for_reading.md) | [→ Далее →](../../trilogy_II_rebirth_and_perfection/series_4_rebirth/01_glass_audit.md)

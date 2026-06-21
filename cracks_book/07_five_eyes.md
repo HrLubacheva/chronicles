@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](06_price_mismatch.md) | [→ Далее →](08_jumping_badge.md)
+[← Назад ←](06_price_mismatch.md) | [→ Далее →](08_jumping_badge.md)

@@ -13,4 +13,4 @@
 
 ---
 
-[← Назад](91_infinity_does_not_require_rush.md) | [→ Далее →](93_glass_does_not_know_fatigue.md)
+[← Назад ←](91_infinity_does_not_require_rush.md) | [→ Далее →](93_glass_does_not_know_fatigue.md)

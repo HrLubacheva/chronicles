@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](01_first_morning.md) | [→ Далее →](03_three_advisors.md)
+[← Назад ←](01_first_morning.md) | [→ Далее →](03_three_advisors.md)

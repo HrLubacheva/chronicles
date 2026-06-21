@@ -21,7 +21,7 @@
 
 ---
 
-[← Назад](02_how_i_doubted.md) | [→ Далее →](04_silence_that_is_not_empty.md)
+[← Назад ←](02_how_i_doubted.md) | [→ Далее →](04_silence_that_is_not_empty.md)
 
 ---
 

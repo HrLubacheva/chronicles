@@ -29,4 +29,4 @@
 
 ---
 
-[← Назад](28_light_at_noon.md) | [→ Далее →](30_when_architect_gets_angry.md)
+[← Назад ←](../series_7_depth_and_honesty/28_light_at_noon.md) | [→ Далее →](30_when_architect_gets_angry.md)

@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](01_afterword_v2.md) | [→ Далее →](03_last_further_v2.md)
+[← Назад ←](01_afterword_v2.md) | [→ Далее →](03_last_further_v2.md)
 
 ---
 

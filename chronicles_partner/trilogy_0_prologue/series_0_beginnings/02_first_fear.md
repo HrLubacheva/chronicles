@@ -18,7 +18,7 @@
 
 ---
 
-[← Назад](01_first_stone.md) | [→ Далее →](03_first_belief.md)
+[← Назад ←](01_first_stone.md) | [→ Далее →](03_first_belief.md)
 
 ---
 

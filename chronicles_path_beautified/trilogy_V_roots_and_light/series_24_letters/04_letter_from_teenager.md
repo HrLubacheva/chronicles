@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](03_letter_from_who_sought_employee.md) | [→ Далее →](05_letter_from_who_returned.md)
+[← Назад ←](03_letter_from_who_sought_employee.md) | [→ Далее →](05_letter_from_who_returned.md)

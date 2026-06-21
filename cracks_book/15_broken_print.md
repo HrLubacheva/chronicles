@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](14_heavy_shadows.md) | [→ Далее →](16_form_that_forgot.md)
+[← Назад ←](14_heavy_shadows.md) | [→ Далее →](16_form_that_forgot.md)

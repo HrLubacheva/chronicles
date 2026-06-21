@@ -4,4 +4,4 @@
 
 ---
 
-[← Назад](01_two_paths.md) | [→ Далее →](03_button_that_changes_reality.md)
+[← Назад ←](01_two_paths.md) | [→ Далее →](03_button_that_changes_reality.md)

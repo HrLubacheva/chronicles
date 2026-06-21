@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](03_light_in_motion.md) | [→ Далее →](05_light_in_silence.md)
+[← Назад ←](03_light_in_motion.md) | [→ Далее →](05_light_in_silence.md)
 
 ---
 

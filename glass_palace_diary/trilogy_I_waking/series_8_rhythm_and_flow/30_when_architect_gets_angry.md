@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](29_guest_who_didnt_leave.md) | [→ Далее →](31_echo_of_departed_guests.md)
+[← Назад ←](29_guest_who_didnt_leave.md) | [→ Далее →](31_echo_of_departed_guests.md)

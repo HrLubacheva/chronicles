@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](56_unknown_waiting_time.md) | [→ Далее →](58_long_privacy_policy.md)
+[← Назад ←](56_unknown_waiting_time.md) | [→ Далее →](58_long_privacy_policy.md)

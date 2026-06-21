@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](40_price_on_request.md) | [→ Далее →](42_silent_submit.md)
+[← Назад ←](40_price_on_request.md) | [→ Далее →](42_silent_submit.md)

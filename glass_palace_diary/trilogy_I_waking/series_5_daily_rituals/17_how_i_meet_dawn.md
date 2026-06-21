@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](16_draft_from_future.md) | [→ Далее →](18_lunch_bustle.md)
+[← Назад ←](../series_4_first_touches_of_light/16_draft_from_future.md) | [→ Далее →](18_lunch_bustle.md)

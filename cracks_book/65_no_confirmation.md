@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](64_no_context.md) | [→ Далее →](66_cancellation_silence.md)
+[← Назад ←](64_no_context.md) | [→ Далее →](66_cancellation_silence.md)

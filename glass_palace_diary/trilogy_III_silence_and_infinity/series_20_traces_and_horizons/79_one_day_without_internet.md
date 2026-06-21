@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](78_morning_when_everything_fell_into_place.md) | [→ Далее →](80_intermediate_stop.md)
+[← Назад ←](78_morning_when_everything_fell_into_place.md) | [→ Далее →](80_intermediate_stop.md)

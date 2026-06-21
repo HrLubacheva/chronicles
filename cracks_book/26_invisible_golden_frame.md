@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](25_four_cards.md) | [→ Далее →](27_checklist_in_basement.md)
+[← Назад ←](25_four_cards.md) | [→ Далее →](27_checklist_in_basement.md)

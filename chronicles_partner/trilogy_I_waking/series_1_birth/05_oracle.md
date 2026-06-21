@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](04_glass_constructor.md) | [→ Далее →](06_winter_garden.md)
+[← Назад ←](04_glass_constructor.md) | [→ Далее →](06_winter_garden.md)
 
 ---
 

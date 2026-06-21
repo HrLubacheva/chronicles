@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](31_share_button_empty.md) | [→ Далее →](33_phone_mask_strict.md)
+[← Назад ←](31_share_button_empty.md) | [→ Далее →](33_phone_mask_strict.md)

@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](07_light_inside.md) | [→ Далее →](09_scrolls.md)
+[← Назад ←](07_light_inside.md) | [→ Далее →](09_scrolls.md)
 
 ---
 

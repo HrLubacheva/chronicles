@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](57_phone_not_saved.md) | [→ Далее →](59_bonus_after_payment.md)
+[← Назад ←](57_phone_not_saved.md) | [→ Далее →](59_bonus_after_payment.md)

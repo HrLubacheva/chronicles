@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](45_up_button_too_early.md) | [→ Далее →](47_impersonal_thank_you.md)
+[← Назад ←](45_up_button_too_early.md) | [→ Далее →](47_impersonal_thank_you.md)

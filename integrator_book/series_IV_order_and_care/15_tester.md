@@ -15,4 +15,4 @@
 
 ---
 
-[← Назад](14_planner.md) | [→ Далее →](16_teacher_who_learned.md)
+[← Назад ←](14_planner.md) | [→ Далее →](16_teacher_who_learned.md)

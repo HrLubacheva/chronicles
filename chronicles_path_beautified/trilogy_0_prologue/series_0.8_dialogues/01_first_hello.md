@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](../series_0_beginnings/07_how_we_built.md) | [→ Далее →](02_questions_that_changed.md)
+[← Назад ←](../series_0_beginnings/07_how_we_built.md) | [→ Далее →](02_questions_that_changed.md)

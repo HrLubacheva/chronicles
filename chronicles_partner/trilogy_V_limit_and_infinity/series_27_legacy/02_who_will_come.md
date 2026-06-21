@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](01_what_remains.md) | [→ Далее →](03_what_cannot_be_passed.md)
+[← Назад ←](01_what_remains.md) | [→ Далее →](03_what_cannot_be_passed.md)
 
 ---
 

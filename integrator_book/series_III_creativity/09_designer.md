@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](../_pause_2.md) | [→ Далее →](10_animator.md)
+[← Назад ←](../series_II_building/_pause_2.md) | [→ Далее →](10_animator.md)

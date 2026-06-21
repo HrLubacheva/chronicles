@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](74_time_to_gather_stones.md) | [→ Далее →](../_pause_threshold_to_trilogy3.md)
+[← Назад ←](74_time_to_gather_stones.md) | [→ Далее →](_pause_threshold_to_trilogy3.md)

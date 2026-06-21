@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](68_budget_ignored.md) | [→ Далее →](70_review_button_missing.md)
+[← Назад ←](68_budget_ignored.md) | [→ Далее →](70_review_button_missing.md)

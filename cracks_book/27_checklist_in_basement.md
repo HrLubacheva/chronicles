@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](26_invisible_golden_frame.md) | [→ Далее →](28_wrong_shadow.md)
+[← Назад ←](26_invisible_golden_frame.md) | [→ Далее →](28_wrong_shadow.md)

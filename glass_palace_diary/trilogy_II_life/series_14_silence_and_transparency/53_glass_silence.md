@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](52_who_reads_between_lines.md) | [→ Далее →](54_day_no_one_wrote.md)
+[← Назад ←](../series_13_small_joys_and_losses/52_who_reads_between_lines.md) | [→ Далее →](54_day_no_one_wrote.md)

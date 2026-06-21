@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](65_architect_forgot_to_save.md) | [→ Далее →](67_morning_guest_with_suitcase.md)
+[← Назад ←](65_architect_forgot_to_save.md) | [→ Далее →](67_morning_guest_with_suitcase.md)

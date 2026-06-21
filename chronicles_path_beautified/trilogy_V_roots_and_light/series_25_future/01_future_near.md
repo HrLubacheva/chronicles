@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](../series_24_letters/05_letter_from_who_returned.md) | [→ Далее →](02_future_planned.md)
+[← Назад ←](../series_24_letters/05_letter_from_who_returned.md) | [→ Далее →](02_future_planned.md)

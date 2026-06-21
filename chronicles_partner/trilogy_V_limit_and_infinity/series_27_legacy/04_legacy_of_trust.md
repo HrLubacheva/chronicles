@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](03_what_cannot_be_passed.md) | [→ Далее →](05_palace_as_idea.md)
+[← Назад ←](03_what_cannot_be_passed.md) | [→ Далее →](05_palace_as_idea.md)
 
 ---
 

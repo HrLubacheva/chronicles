@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](90_slow_hosting.md) | [→ Далее →](92_rigid_calendar.md)
+[← Назад ←](90_slow_hosting.md) | [→ Далее →](92_rigid_calendar.md)

@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](30_when_architect_gets_angry.md) | [→ Далее →](32_script_that_cried.md)
+[← Назад ←](30_when_architect_gets_angry.md) | [→ Далее →](32_script_that_cried.md)

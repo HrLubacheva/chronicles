@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](48_late_materials.md) | [→ Далее →](50_new_window.md)
+[← Назад ←](48_late_materials.md) | [→ Далее →](50_new_window.md)

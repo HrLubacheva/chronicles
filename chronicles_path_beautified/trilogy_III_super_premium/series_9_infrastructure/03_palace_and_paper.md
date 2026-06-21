@@ -4,4 +4,4 @@
 
 ---
 
-[← Назад](02_forge_that_does_not_overheat.md) | [→ Далее →](04_guard_in_guests_pocket.md)
+[← Назад ←](02_forge_that_does_not_overheat.md) | [→ Далее →](04_guard_in_guests_pocket.md)

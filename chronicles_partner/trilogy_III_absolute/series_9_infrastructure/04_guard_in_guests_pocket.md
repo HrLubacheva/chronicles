@@ -18,7 +18,7 @@
 
 ---
 
-[← Назад](03_palace_and_paper.md) | [→ Далее →](05_three_keys.md)
+[← Назад ←](03_palace_and_paper.md) | [→ Далее →](05_three_keys.md)
 
 ---
 

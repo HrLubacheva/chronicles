@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](02_chronicles_and_diaries.md) | [→ Далее →](04_how_diary2_was_born.md)
+[← Назад ←](02_chronicles_and_diaries.md) | [→ Далее →](04_how_diary2_was_born.md)

@@ -20,7 +20,7 @@
 
 ---
 
-[← Назад](11_keeper.md) | [→ Далее →](13_chronicles_continue.md)
+[← Назад ←](11_keeper.md) | [→ Далее →](13_chronicles_continue.md)
 
 ---
 

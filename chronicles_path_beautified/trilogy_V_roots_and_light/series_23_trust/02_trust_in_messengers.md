@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](01_trust_in_letters.md) | [→ Далее →](03_trust_in_offline.md)
+[← Назад ←](01_trust_in_letters.md) | [→ Далее →](03_trust_in_offline.md)

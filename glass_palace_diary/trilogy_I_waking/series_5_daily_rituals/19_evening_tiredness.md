@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](18_lunch_bustle.md) | [→ Далее →](20_night_talk_with_myself.md)
+[← Назад ←](18_lunch_bustle.md) | [→ Далее →](20_night_talk_with_myself.md)

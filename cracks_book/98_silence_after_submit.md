@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](97_form_clears_on_error.md) | [→ Далее →](99_empty_share.md)
+[← Назад ←](97_form_clears_on_error.md) | [→ Далее →](99_empty_share.md)

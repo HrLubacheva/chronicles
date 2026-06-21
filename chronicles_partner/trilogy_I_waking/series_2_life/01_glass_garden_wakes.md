@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](../series_1_birth/13_chronicles_continue.md) | [→ Далее →](02_glass_diary.md)
+[← Назад ←](../series_1_birth/13_chronicles_continue.md) | [→ Далее →](02_glass_diary.md)
 
 ---
 

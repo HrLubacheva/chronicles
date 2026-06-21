@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](36_architect_on_vacation.md) | [→ Далее →](38_change_of_seasons.md)
+[← Назад ←](../series_9_storms_and_calms/36_architect_on_vacation.md) | [→ Далее →](38_change_of_seasons.md)

@@ -35,4 +35,4 @@
 
 ---
 
-[← Назад](23_mistake_that_became_gift.md) | [→ Далее →](25_ghost_of_first_version.md)
+[← Назад ←](23_mistake_that_became_gift.md) | [→ Далее →](../series_7_depth_and_honesty/25_ghost_of_first_version.md)

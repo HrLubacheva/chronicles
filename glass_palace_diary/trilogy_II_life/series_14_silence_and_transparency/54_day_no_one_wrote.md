@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](53_glass_silence.md) | [→ Далее →](55_talk_with_dawn.md)
+[← Назад ←](53_glass_silence.md) | [→ Далее →](55_talk_with_dawn.md)

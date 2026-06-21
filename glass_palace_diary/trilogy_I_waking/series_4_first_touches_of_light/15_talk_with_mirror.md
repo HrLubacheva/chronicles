@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](14_tour_for_newbie.md) | [→ Далее →](16_draft_from_future.md)
+[← Назад ←](14_tour_for_newbie.md) | [→ Далее →](16_draft_from_future.md)

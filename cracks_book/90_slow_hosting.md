@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](89_empty_404.md) | [→ Далее →](91_logo_no_theme.md)
+[← Назад ←](89_empty_404.md) | [→ Далее →](91_logo_no_theme.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](65_no_confirmation.md) | [→ Далее →](67_question_ignored.md)
+[← Назад ←](65_no_confirmation.md) | [→ Далее →](67_question_ignored.md)

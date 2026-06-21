@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](50_exactly_fifty.md) | [→ Далее →](52_who_reads_between_lines.md)
+[← Назад ←](50_exactly_fifty.md) | [→ Далее →](52_who_reads_between_lines.md)

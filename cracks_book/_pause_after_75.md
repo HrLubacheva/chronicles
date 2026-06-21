@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](75_no_follow_up.md) | [→ Далее →](76_no_aftercare.md)
+[← Назад ←](75_no_follow_up.md) | [→ Далее →](76_no_aftercare.md)

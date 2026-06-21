@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](17_learner_on_mistakes.md) | [→ Далее →](19_who_returned_to_old.md)
+[← Назад ←](17_learner_on_mistakes.md) | [→ Далее →](19_who_returned_to_old.md)

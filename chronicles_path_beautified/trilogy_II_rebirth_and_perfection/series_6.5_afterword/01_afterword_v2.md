@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](../series_6_absolute_v8.1/03_glass_tomorrow.md) | [→ Далее →](02_thanks_for_trust.md)
+[← Назад ←](../series_6_absolute_v8.1/03_glass_tomorrow.md) | [→ Далее →](02_thanks_for_trust.md)

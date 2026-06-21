@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](04_first_site.md) | [→ Далее →](06_honesty_in_code.md)
+[← Назад ←](04_first_site.md) | [→ Далее →](06_honesty_in_code.md)
 
 ---
 

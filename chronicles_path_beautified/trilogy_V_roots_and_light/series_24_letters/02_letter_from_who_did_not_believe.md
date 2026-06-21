@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](01_letter_from_who_was_afraid.md) | [→ Далее →](03_letter_from_who_sought_employee.md)
+[← Назад ←](01_letter_from_who_was_afraid.md) | [→ Далее →](03_letter_from_who_sought_employee.md)

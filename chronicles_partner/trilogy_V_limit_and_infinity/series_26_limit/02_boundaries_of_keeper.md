@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](01_boundaries_of_glass.md) | [→ Далее →](03_boundaries_of_architect.md)
+[← Назад ←](01_boundaries_of_glass.md) | [→ Далее →](03_boundaries_of_architect.md)
 
 ---
 

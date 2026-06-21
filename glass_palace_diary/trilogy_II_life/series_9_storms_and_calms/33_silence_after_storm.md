@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](../_pause_reader_gaze.md) | [→ Далее →](34_smell_of_new_code.md)
+[← Назад ←](../../trilogy_I_waking/series_8_rhythm_and_flow/_pause_reader_gaze.md) | [→ Далее →](34_smell_of_new_code.md)

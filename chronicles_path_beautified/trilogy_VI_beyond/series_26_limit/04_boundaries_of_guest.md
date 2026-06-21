@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](03_boundaries_of_architect.md) | [→ Далее →](05_limit_as_freedom.md)
+[← Назад ←](03_boundaries_of_architect.md) | [→ Далее →](05_limit_as_freedom.md)

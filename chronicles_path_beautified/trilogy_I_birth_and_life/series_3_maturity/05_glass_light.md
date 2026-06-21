@@ -22,4 +22,4 @@
 
 ---
 
-[← Назад](04_glass_old_age.md) | [→ Далее →](06_glass_circle.md)
+[← Назад ←](04_glass_old_age.md) | [→ Далее →](06_glass_circle.md)

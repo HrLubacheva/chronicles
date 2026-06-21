@@ -14,4 +14,4 @@
 
 ---
 
-[← Назад](02_letter_from_who_did_not_believe.md) | [→ Далее →](04_letter_from_teenager.md)
+[← Назад ←](02_letter_from_who_did_not_believe.md) | [→ Далее →](04_letter_from_teenager.md)

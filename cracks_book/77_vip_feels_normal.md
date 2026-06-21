@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](76_no_aftercare.md) | [→ Далее →](78_empty_profile.md)
+[← Назад ←](76_no_aftercare.md) | [→ Далее →](78_empty_profile.md)

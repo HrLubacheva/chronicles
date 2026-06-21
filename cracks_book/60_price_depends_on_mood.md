@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](59_bonus_after_payment.md) | [→ Далее →](61_broken_promise.md)
+[← Назад ←](59_bonus_after_payment.md) | [→ Далее →](61_broken_promise.md)

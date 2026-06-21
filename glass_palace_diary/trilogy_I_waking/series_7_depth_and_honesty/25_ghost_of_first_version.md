@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](24_script_that_sang.md) | [→ Далее →](26_shadows_that_arent.md)
+[← Назад ←](../series_6_guests_and_their_traces/24_script_that_sang.md) | [→ Далее →](26_shadows_that_arent.md)

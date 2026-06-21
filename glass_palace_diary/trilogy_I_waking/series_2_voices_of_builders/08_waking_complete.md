@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](07_words_outside_chronicles.md) | [→ Далее →](../_pause_after_waking.md)
+[← Назад ←](07_words_outside_chronicles.md) | [→ Далее →](_pause_after_waking.md)

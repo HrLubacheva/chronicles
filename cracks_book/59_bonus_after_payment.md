@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](58_long_privacy_policy.md) | [→ Далее →](60_price_depends_on_mood.md)
+[← Назад ←](58_long_privacy_policy.md) | [→ Далее →](60_price_depends_on_mood.md)

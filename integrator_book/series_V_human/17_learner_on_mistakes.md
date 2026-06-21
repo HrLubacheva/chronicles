@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](../_pause_4.md) | [→ Далее →](18_writer.md)
+[← Назад ←](../series_IV_order_and_care/_pause_4.md) | [→ Далее →](18_writer.md)

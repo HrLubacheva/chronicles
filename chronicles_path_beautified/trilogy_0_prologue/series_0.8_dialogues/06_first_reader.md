@@ -20,4 +20,4 @@
 
 ---
 
-[← Назад](05_question_not_asked.md) | [→ Далее →](07_farewell.md)
+[← Назад ←](05_question_not_asked.md) | [→ Далее →](07_farewell.md)

@@ -11,4 +11,4 @@
 
 ---
 
-[← Назад](92_reflection_without_question.md) | [→ Далее →](94_tea_without_caffeine.md)
+[← Назад ←](92_reflection_without_question.md) | [→ Далее →](94_tea_without_caffeine.md)

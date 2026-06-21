@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](51_invisible_bridge.md) | [→ Далее →](53_glass_silence.md)
+[← Назад ←](51_invisible_bridge.md) | [→ Далее →](../series_14_silence_and_transparency/53_glass_silence.md)

@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](02_reflection_in_glass.md) | [→ Далее →](04_third_way.md)
+[← Назад ←](02_reflection_in_glass.md) | [→ Далее →](04_third_way.md)

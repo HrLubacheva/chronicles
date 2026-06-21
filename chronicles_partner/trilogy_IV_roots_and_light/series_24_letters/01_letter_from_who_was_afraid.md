@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](../series_23_trust/05_trust_in_code.md) | [→ Далее →](02_letter_from_who_did_not_believe.md)
+[← Назад ←](../series_23_trust/05_trust_in_code.md) | [→ Далее →](02_letter_from_who_did_not_believe.md)
 
 ---
 

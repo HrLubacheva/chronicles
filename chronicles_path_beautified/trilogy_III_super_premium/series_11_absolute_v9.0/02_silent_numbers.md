@@ -4,4 +4,4 @@
 
 ---
 
-[← Назад](01_morning_of_palace.md) | [→ Далее →](03_three_eras.md)
+[← Назад ←](01_morning_of_palace.md) | [→ Далее →](03_three_eras.md)

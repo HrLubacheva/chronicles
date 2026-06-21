@@ -16,7 +16,7 @@
 
 ---
 
-[← Назад](03_button_that_changes_reality.md) | [→ Далее →](05_layers_of_transparency.md)
+[← Назад ←](03_button_that_changes_reality.md) | [→ Далее →](05_layers_of_transparency.md)
 
 ---
 

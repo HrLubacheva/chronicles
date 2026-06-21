@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](95_useless_search.md) | [→ Далее →](97_form_clears_on_error.md)
+[← Назад ←](95_useless_search.md) | [→ Далее →](97_form_clears_on_error.md)

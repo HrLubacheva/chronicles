@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](13_noise_in_telegram.md) | [→ Далее →](15_broken_print.md)
+[← Назад ←](13_noise_in_telegram.md) | [→ Далее →](15_broken_print.md)

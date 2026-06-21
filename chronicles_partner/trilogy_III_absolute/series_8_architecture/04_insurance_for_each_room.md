@@ -16,7 +16,7 @@
 
 ---
 
-[← Назад](03_voices_of_rooms.md) | [→ Далее →](05_names_that_disappeared.md)
+[← Назад ←](03_voices_of_rooms.md) | [→ Далее →](05_names_that_disappeared.md)
 
 ---
 

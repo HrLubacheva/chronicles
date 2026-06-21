@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](04_trust_in_details.md) | [→ Далее →](../series_24_letters/01_letter_from_who_was_afraid.md)
+[← Назад ←](04_trust_in_details.md) | [→ Далее →](../series_24_letters/01_letter_from_who_was_afraid.md)
 
 ---
 

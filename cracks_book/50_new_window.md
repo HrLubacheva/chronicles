@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](49_extra_question_again.md) | [→ Далее →](_pause_after_50.md)
+[← Назад ←](49_extra_question_again.md) | [→ Далее →](_pause_after_50.md)

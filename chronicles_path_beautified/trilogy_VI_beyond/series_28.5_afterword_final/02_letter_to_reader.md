@@ -26,4 +26,4 @@
 
 ---
 
-[← Назад](01_silence_after_everything.md) | [→ Далее →](03_last_further_final.md)
+[← Назад ←](01_silence_after_everything.md) | [→ Далее →](03_last_further_final.md)

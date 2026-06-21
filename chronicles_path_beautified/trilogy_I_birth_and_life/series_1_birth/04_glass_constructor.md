@@ -22,4 +22,4 @@
 
 ---
 
-[← Назад](03_three_principles.md) | [→ Далее →](05_oracle.md)
+[← Назад ←](03_three_principles.md) | [→ Далее →](05_oracle.md)

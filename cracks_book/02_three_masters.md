@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](01_seven_copies.md) | [→ Далее →](03_bridge_through_labyrinths.md)
+[← Назад ←](01_seven_copies.md) | [→ Далее →](03_bridge_through_labyrinths.md)

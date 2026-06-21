@@ -16,7 +16,7 @@
 
 ---
 
-[← Назад](04_insurance_for_each_room.md) | [→ Далее →](06_mirror_that_did_not_blind.md)
+[← Назад ←](04_insurance_for_each_room.md) | [→ Далее →](06_mirror_that_did_not_blind.md)
 
 ---
 

@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](38_change_of_seasons.md) | [→ Далее →](40_letter_to_nowhere.md)
+[← Назад ←](38_change_of_seasons.md) | [→ Далее →](40_letter_to_nowhere.md)

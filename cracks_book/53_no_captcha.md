@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](52_empty_breadcrumbs.md) | [→ Далее →](54_scary_error_500.md)
+[← Назад ←](52_empty_breadcrumbs.md) | [→ Далее →](54_scary_error_500.md)

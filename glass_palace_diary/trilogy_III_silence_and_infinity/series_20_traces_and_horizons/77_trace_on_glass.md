@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](76_silence_we_deserved.md) | [→ Далее →](78_morning_when_everything_fell_into_place.md)
+[← Назад ←](76_silence_we_deserved.md) | [→ Далее →](78_morning_when_everything_fell_into_place.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](77_vip_feels_normal.md) | [→ Далее →](79_gift_without_wrapping.md)
+[← Назад ←](77_vip_feels_normal.md) | [→ Далее →](79_gift_without_wrapping.md)

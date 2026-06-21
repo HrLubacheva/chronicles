@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](01_version_8_1.md) | [→ Далее →](03_glass_tomorrow.md)
+[← Назад ←](01_version_8_1.md) | [→ Далее →](03_glass_tomorrow.md)

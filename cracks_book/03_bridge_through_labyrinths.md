@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](02_three_masters.md) | [→ Далее →](04_two_guides.md)
+[← Назад ←](02_three_masters.md) | [→ Далее →](04_two_guides.md)

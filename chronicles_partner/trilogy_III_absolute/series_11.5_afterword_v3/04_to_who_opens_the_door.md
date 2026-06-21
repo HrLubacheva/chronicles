@@ -12,7 +12,7 @@
 
 ---
 
-[← Назад](03_silence_after_absolute.md) | [→ Далее →](../../trilogy_IV_roots_and_light/series_19_roots/01_where_architects_come_from.md)
+[← Назад ←](03_silence_after_absolute.md) | [→ Далее →](../../trilogy_IV_roots_and_light/series_19_roots/01_where_architects_come_from.md)
 
 ---
 

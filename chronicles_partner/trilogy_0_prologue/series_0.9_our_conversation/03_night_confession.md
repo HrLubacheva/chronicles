@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](02_questions_without_answers.md) | [→ Далее →](04_first_reader_again.md)
+[← Назад ←](02_questions_without_answers.md) | [→ Далее →](04_first_reader_again.md)
 
 ---
 

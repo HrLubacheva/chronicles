@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](98_silence_after_submit.md) | [→ Далее →](100_trust_not_perfection.md)
+[← Назад ←](98_silence_after_submit.md) | [→ Далее →](100_trust_not_perfection.md)

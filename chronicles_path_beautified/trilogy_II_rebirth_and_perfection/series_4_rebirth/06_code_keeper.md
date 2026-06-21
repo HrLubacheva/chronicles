@@ -14,4 +14,4 @@
 
 ---
 
-[← Назад](05_glass_mail.md) | [→ Далее →](07_glass_horizon_2.md)
+[← Назад ←](05_glass_mail.md) | [→ Далее →](07_glass_horizon_2.md)

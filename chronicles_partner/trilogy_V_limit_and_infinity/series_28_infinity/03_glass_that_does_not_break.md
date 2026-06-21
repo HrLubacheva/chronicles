@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](02_circle_that_does_not_close.md) | [→ Далее →](../series_28.5_afterword_final/01_silence_after_everything.md)
+[← Назад ←](02_circle_that_does_not_close.md) | [→ Далее →](../series_28.5_afterword_final/01_silence_after_everything.md)
 
 ---
 

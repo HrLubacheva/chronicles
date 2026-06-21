@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](02_architect_coffee.md) | [→ Далее →](04_learning_silence.md)
+[← Назад ←](02_architect_coffee.md) | [→ Далее →](04_learning_silence.md)

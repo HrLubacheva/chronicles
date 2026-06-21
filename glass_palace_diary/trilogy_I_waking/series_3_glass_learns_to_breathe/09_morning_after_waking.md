@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](../_pause_after_waking.md) | [→ Далее →](10_quiet_hour.md)
+[← Назад ←](../series_2_voices_of_builders/_pause_after_waking.md) | [→ Далее →](10_quiet_hour.md)

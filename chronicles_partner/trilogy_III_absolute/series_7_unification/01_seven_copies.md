@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](../../trilogy_II_rebirth/series_6.5_afterword_v2/03_last_further_v2.md) | [→ Далее →](02_price_of_transparency.md)
+[← Назад ←](../../trilogy_II_rebirth/series_6.5_afterword_v2/03_last_further_v2.md) | [→ Далее →](02_price_of_transparency.md)
 
 ---
 

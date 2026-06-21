@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](06_how_we_talked.md) | [→ Далее →](08_moments_of_clarity.md)
+[← Назад ←](06_how_we_talked.md) | [→ Далее →](08_moments_of_clarity.md)

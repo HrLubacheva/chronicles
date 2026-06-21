@@ -20,7 +20,7 @@
 
 ---
 
-[← Назад](../series_10_visual/05_layers_of_transparency.md) | [→ Далее →](02_silent_numbers.md)
+[← Назад ←](../series_10_visual/05_layers_of_transparency.md) | [→ Далее →](02_silent_numbers.md)
 
 ---
 

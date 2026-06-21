@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](38_price_rounding_up.md) | [→ Далее →](40_price_on_request.md)
+[← Назад ←](38_price_rounding_up.md) | [→ Далее →](40_price_on_request.md)

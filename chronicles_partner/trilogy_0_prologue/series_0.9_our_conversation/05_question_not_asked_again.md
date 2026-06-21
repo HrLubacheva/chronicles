@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](04_first_reader_again.md) | [→ Далее →](06_glass_circle_again.md)
+[← Назад ←](04_first_reader_again.md) | [→ Далее →](06_glass_circle_again.md)
 
 ---
 

@@ -20,4 +20,4 @@
 
 ---
 
-[← Назад](01_glass_audit.md) | [→ Далее →](03_pulse_of_trust.md)
+[← Назад ←](01_glass_audit.md) | [→ Далее →](03_pulse_of_trust.md)

@@ -52,4 +52,4 @@
 
 ---
 
-[← Назад](../../trilogy_III_super_premium/series_11.5_afterword/04_to_who_opens_the_door.md) | [→ Далее →](../../trilogy_V_roots_and_light/series_19_roots/01_where_architects_come_from.md)
+[← Назад ←](../../trilogy_III_super_premium/series_11.5_afterword/04_to_who_opens_the_door.md) | [→ Далее →](../../trilogy_V_roots_and_light/series_19_roots/01_where_architects_come_from.md)

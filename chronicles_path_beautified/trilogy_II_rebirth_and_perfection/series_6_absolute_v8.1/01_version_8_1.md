@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](../series_5_perfection/05_glass_infinity.md) | [→ Далее →](02_code_keeper.md)
+[← Назад ←](../series_5_perfection/05_glass_infinity.md) | [→ Далее →](02_code_keeper.md)

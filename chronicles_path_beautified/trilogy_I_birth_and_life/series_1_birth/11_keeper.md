@@ -22,4 +22,4 @@
 
 ---
 
-[← Назад](10_first_guests.md) | [→ Далее →](12_glass_satellites.md)
+[← Назад ←](10_first_guests.md) | [→ Далее →](12_glass_satellites.md)

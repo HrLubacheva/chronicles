@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](01_where_glass_meets_silence.md) | [→ Далее →](03_glass_census.md)
+[← Назад ←](01_where_glass_meets_silence.md) | [→ Далее →](03_glass_census.md)

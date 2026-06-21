@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](04_glass_sunset.md) | [→ Далее →](06_glass_heritage.md)
+[← Назад ←](04_glass_sunset.md) | [→ Далее →](06_glass_heritage.md)
 
 ---
 

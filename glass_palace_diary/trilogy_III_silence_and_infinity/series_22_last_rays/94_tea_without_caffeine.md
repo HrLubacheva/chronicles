@@ -11,4 +11,4 @@
 
 ---
 
-[← Назад](93_glass_does_not_know_fatigue.md) | [→ Далее →](95_silence_after_dot.md)
+[← Назад ←](93_glass_does_not_know_fatigue.md) | [→ Далее →](95_silence_after_dot.md)

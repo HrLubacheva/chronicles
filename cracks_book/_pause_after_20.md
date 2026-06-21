@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](20_broken_link.md) | [→ Далее →](21_slow_loading.md)
+[← Назад ←](20_broken_link.md) | [→ Далее →](21_slow_loading.md)

@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](06_file_architect.md) | [→ Далее →](08_who_learned_on_the_go.md)
+[← Назад ←](06_file_architect.md) | [→ Далее →](08_who_learned_on_the_go.md)

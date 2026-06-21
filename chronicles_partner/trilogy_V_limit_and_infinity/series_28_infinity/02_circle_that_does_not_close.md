@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](01_dot_that_is_not_end.md) | [→ Далее →](03_glass_that_does_not_break.md)
+[← Назад ←](01_dot_that_is_not_end.md) | [→ Далее →](03_glass_that_does_not_break.md)
 
 ---
 

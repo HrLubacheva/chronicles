@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](12_glass_satellites.md) | [→ Далее →](../series_2_life/01_glass_garden_wakes.md)
+[← Назад ←](12_glass_satellites.md) | [→ Далее →](../series_2_life/01_glass_garden_wakes.md)
 
 ---
 

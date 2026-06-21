@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](96_video_black_square.md) | [→ Далее →](98_silence_after_submit.md)
+[← Назад ←](96_video_black_square.md) | [→ Далее →](98_silence_after_submit.md)

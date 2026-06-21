@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](54_scary_error_500.md) | [→ Далее →](56_unknown_waiting_time.md)
+[← Назад ←](54_scary_error_500.md) | [→ Далее →](56_unknown_waiting_time.md)

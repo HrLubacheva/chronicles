@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](05_question_not_asked.md) | [→ Далее →](07_glass_circle.md)
+[← Назад ←](05_question_not_asked.md) | [→ Далее →](07_glass_circle.md)
 
 ---
 

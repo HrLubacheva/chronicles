@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](10_telegram_pulse.md) | [→ Далее →](12_wrong_we.md)
+[← Назад ←](10_telegram_pulse.md) | [→ Далее →](12_wrong_we.md)

@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](06_honesty_in_code.md) | [→ Далее →](08_how_we_built.md)
+[← Назад ←](06_honesty_in_code.md) | [→ Далее →](08_how_we_built.md)
 
 ---
 

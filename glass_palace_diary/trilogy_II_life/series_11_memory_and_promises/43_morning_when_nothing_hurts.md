@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](42_when_palace_dreams_architect.md) | [→ Далее →](44_voice_whispered_im_here.md)
+[← Назад ←](42_when_palace_dreams_architect.md) | [→ Далее →](44_voice_whispered_im_here.md)

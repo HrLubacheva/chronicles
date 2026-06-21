@@ -18,7 +18,7 @@
 
 ---
 
-[← Назад](04_branching_of_fate.md) | [→ Далее →](06_voice_through_glass.md)
+[← Назад ←](04_branching_of_fate.md) | [→ Далее →](06_voice_through_glass.md)
 
 ---
 

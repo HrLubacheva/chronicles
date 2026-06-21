@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](35_email_confirmation_lost.md) | [→ Далее →](37_scroll_jump.md)
+[← Назад ←](35_email_confirmation_lost.md) | [→ Далее →](37_scroll_jump.md)

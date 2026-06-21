@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](03_bridge_through_labyrinths.md) | [→ Далее →](05_voice_that_cried.md)
+[← Назад ←](03_bridge_through_labyrinths.md) | [→ Далее →](05_voice_that_cried.md)

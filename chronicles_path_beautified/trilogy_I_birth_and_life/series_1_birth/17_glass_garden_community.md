@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](16_glass_dawn.md) | [→ Далее →](18_echo_of_glass.md)
+[← Назад ←](16_glass_dawn.md) | [→ Далее →](18_echo_of_glass.md)

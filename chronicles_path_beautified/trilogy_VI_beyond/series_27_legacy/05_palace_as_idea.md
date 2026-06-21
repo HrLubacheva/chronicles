@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](04_legacy_of_trust.md) | [→ Далее →](../series_28_infinity/01_dot_that_is_not_end.md)
+[← Назад ←](04_legacy_of_trust.md) | [→ Далее →](../series_28_infinity/01_dot_that_is_not_end.md)

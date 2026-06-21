@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](03_three_eras.md) | [→ Далее →](05_doors_are_open.md)
+[← Назад ←](03_three_eras.md) | [→ Далее →](05_doors_are_open.md)

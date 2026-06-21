@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](83_long_form.md) | [→ Далее →](85_no_chat_history.md)
+[← Назад ←](83_long_form.md) | [→ Далее →](85_no_chat_history.md)

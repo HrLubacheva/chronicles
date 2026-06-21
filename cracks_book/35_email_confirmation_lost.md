@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](34_timezone_blind.md) | [→ Далее →](36_form_no_draft.md)
+[← Назад ←](34_timezone_blind.md) | [→ Далее →](36_form_no_draft.md)

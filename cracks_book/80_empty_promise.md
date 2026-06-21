@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](79_gift_without_wrapping.md) | [→ Далее →](81_no_cancel_button.md)
+[← Назад ←](79_gift_without_wrapping.md) | [→ Далее →](81_no_cancel_button.md)

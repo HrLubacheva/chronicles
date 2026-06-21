@@ -14,4 +14,4 @@
 
 ---
 
-[← Назад](18_echo_of_glass.md) | [→ Далее →](20_glass_horizon.md)
+[← Назад ←](18_echo_of_glass.md) | [→ Далее →](20_glass_horizon.md)

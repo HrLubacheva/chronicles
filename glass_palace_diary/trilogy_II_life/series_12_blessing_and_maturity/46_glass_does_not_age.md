@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](45_blessing_of_keeper.md) | [→ Далее →](47_one_day_in_life_of_script.md)
+[← Назад ←](45_blessing_of_keeper.md) | [→ Далее →](47_one_day_in_life_of_script.md)

@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](87_last_ray_before_sunset.md) | [→ Далее →](89_diary_as_safe_haven.md)
+[← Назад ←](87_last_ray_before_sunset.md) | [→ Далее →](89_diary_as_safe_haven.md)

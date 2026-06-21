@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](03_trust_in_offline.md) | [→ Далее →](05_trust_in_code.md)
+[← Назад ←](03_trust_in_offline.md) | [→ Далее →](05_trust_in_code.md)

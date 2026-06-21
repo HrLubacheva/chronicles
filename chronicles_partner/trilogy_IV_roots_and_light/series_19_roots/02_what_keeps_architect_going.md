@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](01_where_architects_come_from.md) | [→ Далее →](03_first_million.md)
+[← Назад ←](01_where_architects_come_from.md) | [→ Далее →](03_first_million.md)
 
 ---
 

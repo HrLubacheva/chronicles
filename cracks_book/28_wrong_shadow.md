@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](27_checklist_in_basement.md) | [→ Далее →](29_silence_after_100.md)
+[← Назад ←](27_checklist_in_basement.md) | [→ Далее →](29_silence_after_100.md)

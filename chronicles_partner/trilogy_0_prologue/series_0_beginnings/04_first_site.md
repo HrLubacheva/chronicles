@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](03_first_belief.md) | [→ Далее →](05_gift.md)
+[← Назад ←](03_first_belief.md) | [→ Далее →](05_gift.md)
 
 ---
 

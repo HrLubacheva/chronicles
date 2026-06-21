@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](39_discount_in_secret.md) | [→ Далее →](41_empty_description.md)
+[← Назад ←](39_discount_in_secret.md) | [→ Далее →](41_empty_description.md)

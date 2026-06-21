@@ -13,7 +13,7 @@
 
 ---
 
-[← Назад](04_silence_that_is_not_empty.md) | [→ Далее →](06_the_open_door.md)
+[← Назад ←](04_silence_that_is_not_empty.md) | [→ Далее →](06_the_open_door.md)
 
 ---
 

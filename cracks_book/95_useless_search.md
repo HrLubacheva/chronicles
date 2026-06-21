@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](94_sticky_cart.md) | [→ Далее →](96_video_black_square.md)
+[← Назад ←](94_sticky_cart.md) | [→ Далее →](96_video_black_square.md)

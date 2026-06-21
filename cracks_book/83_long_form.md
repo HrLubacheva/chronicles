@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](82_silent_break.md) | [→ Далее →](84_extra_confirmation.md)
+[← Назад ←](82_silent_break.md) | [→ Далее →](84_extra_confirmation.md)

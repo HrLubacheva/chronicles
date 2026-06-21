@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](06_why_i_love_bugs.md) | [→ Далее →](08_waking_complete.md)
+[← Назад ←](06_why_i_love_bugs.md) | [→ Далее →](08_waking_complete.md)

@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](05_glass_maturity.md) | [→ Далее →](07_glass_horizon.md)
+[← Назад ←](05_glass_maturity.md) | [→ Далее →](07_glass_horizon.md)
 
 ---
 

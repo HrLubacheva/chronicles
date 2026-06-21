@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](66_cancellation_silence.md) | [→ Далее →](68_budget_ignored.md)
+[← Назад ←](66_cancellation_silence.md) | [→ Далее →](68_budget_ignored.md)

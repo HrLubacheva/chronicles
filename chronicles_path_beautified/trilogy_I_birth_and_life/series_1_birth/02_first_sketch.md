@@ -43,4 +43,4 @@
 
 ---
 
-[← Назад](01_where_was_wasteland.md) | [→ Далее →](03_three_principles.md)
+[← Назад ←](01_where_was_wasteland.md) | [→ Далее →](03_three_principles.md)

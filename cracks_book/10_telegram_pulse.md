@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](09_wrong_quiz.md) | [→ Далее →](11_disappeared_twin.md)
+[← Назад ←](09_wrong_quiz.md) | [→ Далее →](11_disappeared_twin.md)

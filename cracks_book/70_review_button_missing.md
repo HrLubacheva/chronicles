@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](69_deadline_not_mentioned.md) | [→ Далее →](71_no_guarantee.md)
+[← Назад ←](69_deadline_not_mentioned.md) | [→ Далее →](71_no_guarantee.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](08_jumping_badge.md) | [→ Далее →](10_telegram_pulse.md)
+[← Назад ←](08_jumping_badge.md) | [→ Далее →](10_telegram_pulse.md)

@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](17_how_i_meet_dawn.md) | [→ Далее →](19_evening_tiredness.md)
+[← Назад ←](17_how_i_meet_dawn.md) | [→ Далее →](19_evening_tiredness.md)

@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](83_third_trilogy.md) | [→ Далее →](85_silence_speaks_louder.md)
+[← Назад ←](83_third_trilogy.md) | [→ Далее →](85_silence_speaks_louder.md)

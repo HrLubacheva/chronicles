@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](02_who_will_come.md) | [→ Далее →](04_legacy_of_trust.md)
+[← Назад ←](02_who_will_come.md) | [→ Далее →](04_legacy_of_trust.md)
 
 ---
 

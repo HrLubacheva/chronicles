@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](01_light_inside.md) | [→ Далее →](03_light_in_motion.md)
+[← Назад ←](01_light_inside.md) | [→ Далее →](03_light_in_motion.md)

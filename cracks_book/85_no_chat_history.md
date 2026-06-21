@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](84_extra_confirmation.md) | [→ Далее →](86_no_unsubscribe.md)
+[← Назад ←](84_extra_confirmation.md) | [→ Далее →](86_no_unsubscribe.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](85_no_chat_history.md) | [→ Далее →](87_no_pdf_invoice.md)
+[← Назад ←](85_no_chat_history.md) | [→ Далее →](87_no_pdf_invoice.md)

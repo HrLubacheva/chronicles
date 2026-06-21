@@ -20,4 +20,4 @@
 
 ---
 
-[← Назад](99_empty_share.md) | [→ Далее →](_pause_after_100.md)
+[← Назад ←](99_empty_share.md) | [→ Далее →](_pause_after_100.md)

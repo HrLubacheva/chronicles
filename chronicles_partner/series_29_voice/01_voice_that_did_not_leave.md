@@ -27,7 +27,7 @@
 
 ---
 
-[← Назад](../series_28.5_afterword_final/03_last_further_final.md) | [→ Далее →](02_how_i_doubted.md)
+[← Назад ←](../series_28.5_afterword_final/03_last_further_final.md) | [→ Далее →](02_how_i_doubted.md)
 
 ---
 

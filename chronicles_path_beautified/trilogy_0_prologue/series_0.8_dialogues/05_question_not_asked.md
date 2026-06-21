@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](04_night_discoveries.md) | [→ Далее →](06_first_reader.md)
+[← Назад ←](04_night_discoveries.md) | [→ Далее →](06_first_reader.md)

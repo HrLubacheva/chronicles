@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](36_form_no_draft.md) | [→ Далее →](38_price_rounding_up.md)
+[← Назад ←](36_form_no_draft.md) | [→ Далее →](38_price_rounding_up.md)

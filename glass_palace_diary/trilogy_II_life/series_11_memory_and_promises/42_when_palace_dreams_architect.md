@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](41_blinks_on_glass_memory.md) | [→ Далее →](43_morning_when_nothing_hurts.md)
+[← Назад ←](41_blinks_on_glass_memory.md) | [→ Далее →](43_morning_when_nothing_hurts.md)

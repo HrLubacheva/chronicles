@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](85_silence_speaks_louder.md) | [→ Далее →](87_last_ray_before_sunset.md)
+[← Назад ←](../series_21_reflection_and_return/85_silence_speaks_louder.md) | [→ Далее →](87_last_ray_before_sunset.md)

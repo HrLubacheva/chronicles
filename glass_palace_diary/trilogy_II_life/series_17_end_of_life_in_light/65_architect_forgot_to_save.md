@@ -31,4 +31,4 @@
 
 ---
 
-[← Назад](64_infinity_is_not_scary.md) | [→ Далее →](66_light_that_never_goes_out.md)
+[← Назад ←](../series_16_small_updates_and_release_morning/64_infinity_is_not_scary.md) | [→ Далее →](66_light_that_never_goes_out.md)

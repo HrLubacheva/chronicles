@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](51_logo_not_link.md) | [→ Далее →](53_no_captcha.md)
+[← Назад ←](51_logo_not_link.md) | [→ Далее →](53_no_captcha.md)

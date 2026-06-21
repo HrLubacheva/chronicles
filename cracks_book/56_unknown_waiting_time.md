@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](55_no_loading_indicator.md) | [→ Далее →](57_phone_not_saved.md)
+[← Назад ←](55_no_loading_indicator.md) | [→ Далее →](57_phone_not_saved.md)

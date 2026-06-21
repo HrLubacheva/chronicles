@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](19_small_buttons.md) | [→ Далее →](_pause_after_20.md)
+[← Назад ←](19_small_buttons.md) | [→ Далее →](_pause_after_20.md)

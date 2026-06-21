@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](14_voice_from_silence.md) | [→ Далее →](16_glass_dawn.md)
+[← Назад ←](14_voice_from_silence.md) | [→ Далее →](16_glass_dawn.md)

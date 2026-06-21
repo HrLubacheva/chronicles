@@ -20,7 +20,7 @@
 
 ---
 
-[← Назад](../../trilogy_III_absolute/series_11.5_afterword_v3/04_to_who_opens_the_door.md) | [→ Далее →](02_what_keeps_architect_going.md)
+[← Назад ←](../../trilogy_III_absolute/series_11.5_afterword_v3/04_to_who_opens_the_door.md) | [→ Далее →](02_what_keeps_architect_going.md)
 
 ---
 

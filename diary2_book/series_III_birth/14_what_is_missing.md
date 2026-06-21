@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](13_what_i_learned.md) | [→ Далее →](15_integrator_of_integrators.md)
+[← Назад ←](13_what_i_learned.md) | [→ Далее →](15_integrator_of_integrators.md)

@@ -31,4 +31,4 @@
 
 ---
 
-[← Назад](79_one_day_without_internet.md) | [→ Далее →](81_look_from_inside.md)
+[← Назад ←](79_one_day_without_internet.md) | [→ Далее →](../series_21_reflection_and_return/81_look_from_inside.md)

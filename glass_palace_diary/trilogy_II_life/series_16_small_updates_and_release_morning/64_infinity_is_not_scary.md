@@ -29,4 +29,4 @@
 
 ---
 
-[← Назад](63_long_silence_of_partner.md) | [→ Далее →](65_architect_forgot_to_save.md)
+[← Назад ←](63_long_silence_of_partner.md) | [→ Далее →](../series_17_end_of_life_in_light/65_architect_forgot_to_save.md)

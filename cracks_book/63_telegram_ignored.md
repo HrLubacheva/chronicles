@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](62_silence_after_payment.md) | [→ Далее →](64_no_context.md)
+[← Назад ←](62_silence_after_payment.md) | [→ Далее →](64_no_context.md)

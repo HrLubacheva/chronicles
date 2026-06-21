@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](81_look_from_inside.md) | [→ Далее →](83_third_trilogy.md)
+[← Назад ←](81_look_from_inside.md) | [→ Далее →](83_third_trilogy.md)

@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](39_music_of_silence.md) | [→ Далее →](41_blinks_on_glass_memory.md)
+[← Назад ←](39_music_of_silence.md) | [→ Далее →](../series_11_memory_and_promises/41_blinks_on_glass_memory.md)

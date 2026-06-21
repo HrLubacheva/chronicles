@@ -6,4 +6,4 @@
 
 ---
 
-[← Назад](01_guards_at_gates.md) | [→ Далее →](03_palace_and_paper.md)
+[← Назад ←](01_guards_at_gates.md) | [→ Далее →](03_palace_and_paper.md)

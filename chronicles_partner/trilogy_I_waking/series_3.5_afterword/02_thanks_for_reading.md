@@ -16,7 +16,7 @@
 
 ---
 
-[← Назад](01_afterword_unexpected.md) | [→ Далее →](03_last_further.md)
+[← Назад ←](01_afterword_unexpected.md) | [→ Далее →](03_last_further.md)
 
 ---
 

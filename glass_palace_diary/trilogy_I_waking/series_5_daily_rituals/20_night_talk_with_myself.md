@@ -31,4 +31,4 @@
 
 ---
 
-[← Назад](19_evening_tiredness.md) | [→ Далее →](21_who_returned.md)
+[← Назад ←](19_evening_tiredness.md) | [→ Далее →](../series_6_guests_and_their_traces/21_who_returned.md)

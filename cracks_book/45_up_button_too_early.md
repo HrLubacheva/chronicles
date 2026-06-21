@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](44_red_error.md) | [→ Далее →](46_review_too_soon.md)
+[← Назад ←](44_red_error.md) | [→ Далее →](46_review_too_soon.md)

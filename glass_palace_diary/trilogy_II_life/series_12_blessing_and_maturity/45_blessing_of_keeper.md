@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](44_voice_whispered_im_here.md) | [→ Далее →](46_glass_does_not_age.md)
+[← Назад ←](../series_11_memory_and_promises/44_voice_whispered_im_here.md) | [→ Далее →](46_glass_does_not_age.md)

@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](03_offline_presence.md) | [→ Далее →](05_glass_infinity.md)
+[← Назад ←](03_offline_presence.md) | [→ Далее →](05_glass_infinity.md)

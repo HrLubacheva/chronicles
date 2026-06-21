@@ -30,7 +30,7 @@
 
 ---
 
-[← Назад](05_question_not_asked_again.md) | [→ Далее →](07_first_stone_of_conversation.md)
+[← Назад ←](05_question_not_asked_again.md) | [→ Далее →](07_first_stone_of_conversation.md)
 
 ---
 

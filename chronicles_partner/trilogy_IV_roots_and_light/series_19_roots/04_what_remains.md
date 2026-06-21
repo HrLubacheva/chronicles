@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](03_first_million.md) | [→ Далее →](05_to_those_who_build_now.md)
+[← Назад ←](03_first_million.md) | [→ Далее →](05_to_those_who_build_now.md)
 
 ---
 

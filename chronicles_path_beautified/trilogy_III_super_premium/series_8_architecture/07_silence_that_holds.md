@@ -6,4 +6,4 @@
 
 ---
 
-[← Назад](06_mirror_that_did_not_blind.md) | [→ Далее →](../series_9_infrastructure/01_guards_at_gates.md)
+[← Назад ←](06_mirror_that_did_not_blind.md) | [→ Далее →](../series_9_infrastructure/01_guards_at_gates.md)

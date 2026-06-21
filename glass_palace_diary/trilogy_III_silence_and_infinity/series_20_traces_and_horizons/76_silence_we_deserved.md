@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](../_pause_threshold_to_trilogy3.md) | [→ Далее →](77_trace_on_glass.md)
+[← Назад ←](../../trilogy_II_life/series_19_silence_as_art/_pause_threshold_to_trilogy3.md) | [→ Далее →](77_trace_on_glass.md)

@@ -14,4 +14,4 @@
 
 ---
 
-[← Назад](17_glass_garden_community.md) | [→ Далее →](19_glass_does_not_age.md)
+[← Назад ←](17_glass_garden_community.md) | [→ Далее →](19_glass_does_not_age.md)

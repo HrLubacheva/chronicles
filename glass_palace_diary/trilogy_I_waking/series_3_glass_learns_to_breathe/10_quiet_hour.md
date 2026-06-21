@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](09_morning_after_waking.md) | [→ Далее →](11_smell_of_trust.md)
+[← Назад ←](09_morning_after_waking.md) | [→ Далее →](11_smell_of_trust.md)

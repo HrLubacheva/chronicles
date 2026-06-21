@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](../_pause_1.md) | [→ Далее →](06_how_we_talked.md)
+[← Назад ←](../series_I_map/_pause_1.md) | [→ Далее →](06_how_we_talked.md)

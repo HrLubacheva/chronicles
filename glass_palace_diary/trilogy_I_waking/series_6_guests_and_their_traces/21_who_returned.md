@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](20_night_talk_with_myself.md) | [→ Далее →](22_when_nothing_happens.md)
+[← Назад ←](../series_5_daily_rituals/20_night_talk_with_myself.md) | [→ Далее →](22_when_nothing_happens.md)

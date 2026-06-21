@@ -15,4 +15,4 @@
 
 ---
 
-[← Назад](88_dot_that_may_be_end.md) | [→ Далее →](90_short_as_a_ray.md)
+[← Назад ←](88_dot_that_may_be_end.md) | [→ Далее →](90_short_as_a_ray.md)

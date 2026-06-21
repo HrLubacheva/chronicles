@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](71_no_guarantee.md) | [→ Далее →](73_dry_case.md)
+[← Назад ←](71_no_guarantee.md) | [→ Далее →](73_dry_case.md)

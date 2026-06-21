@@ -6,4 +6,4 @@
 
 ---
 
-[← Назад](02_breath_of_palace.md) | [→ Далее →](04_insurance_for_each_room.md)
+[← Назад ←](02_breath_of_palace.md) | [→ Далее →](04_insurance_for_each_room.md)

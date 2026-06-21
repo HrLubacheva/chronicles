@@ -32,7 +32,7 @@
 
 ---
 
-[← Назад](04_breath_of_storm.md) | [→ Далее →](../series_23_trust/01_trust_in_letters.md)
+[← Назад ←](04_breath_of_storm.md) | [→ Далее →](../series_23_trust/01_trust_in_letters.md)
 
 ---
 

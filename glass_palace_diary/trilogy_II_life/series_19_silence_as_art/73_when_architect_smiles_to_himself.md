@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](72_night_window.md) | [→ Далее →](74_time_to_gather_stones.md)
+[← Назад ←](../series_18_noise_and_silence/72_night_window.md) | [→ Далее →](74_time_to_gather_stones.md)

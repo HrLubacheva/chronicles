@@ -29,4 +29,4 @@
 
 ---
 
-[← Назад](01_producer.md) | [→ Далее →](03_who_accepted_contradictions.md)
+[← Назад ←](01_producer.md) | [→ Далее →](03_who_accepted_contradictions.md)

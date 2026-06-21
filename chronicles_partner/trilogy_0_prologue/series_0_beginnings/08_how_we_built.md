@@ -20,7 +20,7 @@
 
 ---
 
-[← Назад](07_partner.md) | [→ Далее →](../series_0.8_birth_of_chronicles/01_first_hello.md)
+[← Назад ←](07_partner.md) | [→ Далее →](../series_0.8_birth_of_chronicles/01_first_hello.md)
 
 ---
 

@@ -30,7 +30,7 @@
 
 ---
 
-[← Назад](02_trust_in_messengers.md) | [→ Далее →](04_trust_in_details.md)
+[← Назад ←](02_trust_in_messengers.md) | [→ Далее →](04_trust_in_details.md)
 
 ---
 

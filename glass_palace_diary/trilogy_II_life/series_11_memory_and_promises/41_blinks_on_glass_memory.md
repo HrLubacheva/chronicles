@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](40_letter_to_nowhere.md) | [→ Далее →](42_when_palace_dreams_architect.md)
+[← Назад ←](../series_10_emotions_and_reflections/40_letter_to_nowhere.md) | [→ Далее →](42_when_palace_dreams_architect.md)

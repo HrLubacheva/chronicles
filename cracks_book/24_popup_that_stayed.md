@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](23_distracting_animation.md) | [→ Далее →](25_four_cards.md)
+[← Назад ←](23_distracting_animation.md) | [→ Далее →](25_four_cards.md)

@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](67_morning_guest_with_suitcase.md) | [→ Далее →](69_glass_noise_outside.md)
+[← Назад ←](67_morning_guest_with_suitcase.md) | [→ Далее →](../series_18_noise_and_silence/69_glass_noise_outside.md)

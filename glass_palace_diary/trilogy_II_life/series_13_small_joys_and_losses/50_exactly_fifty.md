@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](49_architect_lost_phone.md) | [→ Далее →](51_invisible_bridge.md)
+[← Назад ←](49_architect_lost_phone.md) | [→ Далее →](51_invisible_bridge.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](92_rigid_calendar.md) | [→ Далее →](94_sticky_cart.md)
+[← Назад ←](92_rigid_calendar.md) | [→ Далее →](94_sticky_cart.md)

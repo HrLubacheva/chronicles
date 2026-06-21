@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](60_glass_in_rain.md) | [→ Далее →](62_smell_of_morning_after_release.md)
+[← Назад ←](../series_15_dreams_and_intimate/60_glass_in_rain.md) | [→ Далее →](62_smell_of_morning_after_release.md)

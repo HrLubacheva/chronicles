@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](78_empty_profile.md) | [→ Далее →](80_empty_promise.md)
+[← Назад ←](78_empty_profile.md) | [→ Далее →](80_empty_promise.md)

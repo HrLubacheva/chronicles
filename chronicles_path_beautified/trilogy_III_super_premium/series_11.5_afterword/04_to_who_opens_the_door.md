@@ -10,4 +10,4 @@
 
 ---
 
-[← Назад](03_silence_after_absolute.md) | [→ Далее →](../../trilogy_IV_future_space/series_12-18_space/00_space.md)
+[← Назад ←](03_silence_after_absolute.md) | [→ Далее →](../../trilogy_IV_future_space/series_12-18_space/00_space.md)

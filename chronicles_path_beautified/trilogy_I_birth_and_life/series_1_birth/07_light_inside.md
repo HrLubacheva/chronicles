@@ -20,4 +20,4 @@
 
 ---
 
-[← Назад](06_winter_garden.md) | [→ Далее →](08_protective_glass.md)
+[← Назад ←](06_winter_garden.md) | [→ Далее →](08_protective_glass.md)

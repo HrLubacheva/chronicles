@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](../../trilogy_IV_future_space/series_12-18_space/00_space.md) | [→ Далее →](02_what_keeps_architect_going.md)
+[← Назад ←](../../trilogy_IV_future_space/series_12-18_space/00_space.md) | [→ Далее →](02_what_keeps_architect_going.md)

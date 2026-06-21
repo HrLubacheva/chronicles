@@ -13,4 +13,4 @@
 
 ---
 
-[← Назад](95_silence_after_dot.md) | [→ Далее →](97_countdown.md)
+[← Назад ←](95_silence_after_dot.md) | [→ Далее →](97_countdown.md)

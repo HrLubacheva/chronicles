@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](04_price_of_transparency.md) | [→ Далее →](../series_11.5_afterword_v3/01_letter_from_architect.md)
+[← Назад ←](04_price_of_transparency.md) | [→ Далее →](../series_11.5_afterword_v3/01_letter_from_architect.md)
 
 ---
 

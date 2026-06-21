@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](82_old_friend_returned.md) | [→ Далее →](84_horizon_that_never_approaches.md)
+[← Назад ←](82_old_friend_returned.md) | [→ Далее →](84_horizon_that_never_approaches.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](../../trilogy_II_rebirth_and_perfection/series_6.5_afterword/03_last_further_v2.md) | [→ Далее →](02_price_of_transparency.md)
+[← Назад ←](../../trilogy_II_rebirth_and_perfection/series_6.5_afterword/03_last_further_v2.md) | [→ Далее →](02_price_of_transparency.md)

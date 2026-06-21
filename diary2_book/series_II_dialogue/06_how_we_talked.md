@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](05_chronology_of_dialogue.md) | [→ Далее →](07_who_asked_questions.md)
+[← Назад ←](05_chronology_of_dialogue.md) | [→ Далее →](07_who_asked_questions.md)

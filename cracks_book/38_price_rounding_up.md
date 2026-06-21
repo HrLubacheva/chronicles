@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](37_scroll_jump.md) | [→ Далее →](39_discount_in_secret.md)
+[← Назад ←](37_scroll_jump.md) | [→ Далее →](39_discount_in_secret.md)

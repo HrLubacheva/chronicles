@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](71_gratitude_without_reason.md) | [→ Далее →](73_when_architect_smiles_to_himself.md)
+[← Назад ←](71_gratitude_without_reason.md) | [→ Далее →](../series_19_silence_as_art/73_when_architect_smiles_to_himself.md)

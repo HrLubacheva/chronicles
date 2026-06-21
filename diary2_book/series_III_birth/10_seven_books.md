@@ -30,4 +30,4 @@
 
 ---
 
-[← Назад](09_birth_of_titles.md) | [→ Далее →](11_what_each_book_is_about.md)
+[← Назад ←](09_birth_of_titles.md) | [→ Далее →](11_what_each_book_is_about.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](32_thank_you_empty.md) | [→ Далее →](34_timezone_blind.md)
+[← Назад ←](32_thank_you_empty.md) | [→ Далее →](34_timezone_blind.md)

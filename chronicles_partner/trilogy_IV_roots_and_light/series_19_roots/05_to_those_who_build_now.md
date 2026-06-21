@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](04_what_remains.md) | [→ Далее →](../series_20_light/01_light_inside.md)
+[← Назад ←](04_what_remains.md) | [→ Далее →](../series_20_light/01_light_inside.md)
 
 ---
 

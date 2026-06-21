@@ -13,4 +13,4 @@
 
 ---
 
-[← Назад](97_countdown.md) | [→ Далее →](99_before_last.md)
+[← Назад ←](97_countdown.md) | [→ Далее →](99_before_last.md)

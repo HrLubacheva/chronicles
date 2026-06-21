@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](04_boundaries_of_guest.md) | [→ Далее →](../series_27_legacy/01_what_remains.md)
+[← Назад ←](04_boundaries_of_guest.md) | [→ Далее →](../series_27_legacy/01_what_remains.md)
 
 ---
 

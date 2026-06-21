@@ -4,4 +4,4 @@
 
 ---
 
-[← Назад](05_three_keys.md) | [→ Далее →](07_air_that_holds.md)
+[← Назад ←](05_three_keys.md) | [→ Далее →](07_air_that_holds.md)

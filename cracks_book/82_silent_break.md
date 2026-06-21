@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](81_no_cancel_button.md) | [→ Далее →](83_long_form.md)
+[← Назад ←](81_no_cancel_button.md) | [→ Далее →](83_long_form.md)

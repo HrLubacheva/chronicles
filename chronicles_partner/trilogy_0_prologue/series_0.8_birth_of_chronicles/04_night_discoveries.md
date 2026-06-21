@@ -25,7 +25,7 @@
 
 ---
 
-[← Назад](03_moments_of_silence.md) | [→ Далее →](05_question_not_asked.md)
+[← Назад ←](03_moments_of_silence.md) | [→ Далее →](05_question_not_asked.md)
 
 ---
 

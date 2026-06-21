@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](68_quiet_evening_without_plans.md) | [→ Далее →](70_round_date.md)
+[← Назад ←](../series_17_end_of_life_in_light/68_quiet_evening_without_plans.md) | [→ Далее →](70_round_date.md)

@@ -16,7 +16,7 @@
 
 ---
 
-[← Назад](02_price_of_transparency.md) | [→ Далее →](04_branching_of_fate.md)
+[← Назад ←](02_price_of_transparency.md) | [→ Далее →](04_branching_of_fate.md)
 
 ---
 

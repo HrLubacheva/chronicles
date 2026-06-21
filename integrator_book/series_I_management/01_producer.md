@@ -25,4 +25,4 @@
 
 ---
 
-[→ Далее →](02_coordinator_of_ais.md)
+[← Назад ←](../00_README.md) | [→ Далее →](02_coordinator_of_ais.md)

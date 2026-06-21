@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](46_review_too_soon.md) | [→ Далее →](48_late_materials.md)
+[← Назад ←](46_review_too_soon.md) | [→ Далее →](48_late_materials.md)

@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](86_glass_does_not_advise.md) | [→ Далее →](88_dot_that_may_be_end.md)
+[← Назад ←](86_glass_does_not_advise.md) | [→ Далее →](88_dot_that_may_be_end.md)

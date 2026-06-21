@@ -16,7 +16,7 @@
 
 ---
 
-[← Назад](02_light_running_on_glass.md) | [→ Далее →](04_icon_that_knows_night_and_day.md)
+[← Назад ←](02_light_running_on_glass.md) | [→ Далее →](04_icon_that_knows_night_and_day.md)
 
 ---
 

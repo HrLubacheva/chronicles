@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](30_favicon_that_didnt_change.md) | [→ Далее →](32_thank_you_empty.md)
+[← Назад ←](30_favicon_that_didnt_change.md) | [→ Далее →](32_thank_you_empty.md)

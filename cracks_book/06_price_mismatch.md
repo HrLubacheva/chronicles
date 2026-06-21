@@ -10,4 +10,4 @@
 
 ---
 
-[← Назад](05_voice_that_cried.md) | [→ Далее →](07_five_eyes.md)
+[← Назад ←](05_voice_that_cried.md) | [→ Далее →](07_five_eyes.md)

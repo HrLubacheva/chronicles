@@ -24,4 +24,4 @@
 
 ---
 
-[← Назад](03_glass_bridge.md) | [→ Далее →](05_glass_maturity.md)
+[← Назад ←](03_glass_bridge.md) | [→ Далее →](05_glass_maturity.md)

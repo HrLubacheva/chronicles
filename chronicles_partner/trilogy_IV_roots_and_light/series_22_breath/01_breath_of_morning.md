@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](../series_21_shadows/05_shadows_that_disappear.md) | [→ Далее →](02_breath_of_day.md)
+[← Назад ←](../series_21_shadows/05_shadows_that_disappear.md) | [→ Далее →](02_breath_of_day.md)
 
 ---
 

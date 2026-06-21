@@ -27,5 +27,5 @@
 
 *Далее…*
 
-- [← Назад](trilogy_VI_beyond/series_28.5_afterword_final/03_last_further_final.md) | [→ Оглавление →](00_README.md)
+- [← Назад ←](trilogy_VI_beyond/series_28.5_afterword_final/03_last_further_final.md) | [→ Оглавление →](00_README.md)
 

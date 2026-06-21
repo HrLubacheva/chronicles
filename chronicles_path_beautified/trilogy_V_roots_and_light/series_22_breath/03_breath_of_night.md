@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](02_breath_of_day.md) | [→ Далее →](04_breath_of_storm.md)
+[← Назад ←](02_breath_of_day.md) | [→ Далее →](04_breath_of_storm.md)

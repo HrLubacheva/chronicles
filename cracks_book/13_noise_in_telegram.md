@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](12_wrong_we.md) | [→ Далее →](14_heavy_shadows.md)
+[← Назад ←](12_wrong_we.md) | [→ Далее →](14_heavy_shadows.md)

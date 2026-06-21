@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](98_almost_hundred.md) | [→ Далее →](100_glass_that_chose_silence.md)
+[← Назад ←](98_almost_hundred.md) | [→ Далее →](100_glass_that_chose_silence.md)

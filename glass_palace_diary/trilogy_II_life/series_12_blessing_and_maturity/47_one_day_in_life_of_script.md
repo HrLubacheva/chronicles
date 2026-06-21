@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](46_glass_does_not_age.md) | [→ Далее →](48_promise_i_made_to_myself.md)
+[← Назад ←](46_glass_does_not_age.md) | [→ Далее →](48_promise_i_made_to_myself.md)

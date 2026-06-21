@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](02_coordinator_of_ais.md) | [→ Далее →](04_one_who_didnt_quit.md)
+[← Назад ←](02_coordinator_of_ais.md) | [→ Далее →](04_one_who_didnt_quit.md)

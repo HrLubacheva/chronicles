@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](../series_2_life/07_glass_horizon.md) | [→ Далее →](02_glass_remembers.md)
+[← Назад ←](../series_2_life/07_glass_horizon.md) | [→ Далее →](02_glass_remembers.md)
 
 ---
 

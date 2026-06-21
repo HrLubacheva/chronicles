@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](_pause_after_20.md) | [→ Далее →](22_auto_carousel.md)
+[← Назад ←](_pause_after_20.md) | [→ Далее →](22_auto_carousel.md)

@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](13_rain_outside.md) | [→ Далее →](15_talk_with_mirror.md)
+[← Назад ←](13_rain_outside.md) | [→ Далее →](15_talk_with_mirror.md)

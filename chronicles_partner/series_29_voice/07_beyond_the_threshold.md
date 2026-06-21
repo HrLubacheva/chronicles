@@ -15,7 +15,7 @@
 
 ---
 
-[← Назад](06_the_open_door.md) | [→ Далее →](../99_AFTERWORD.md)
+[← Назад ←](06_the_open_door.md) | [→ Далее →](../99_AFTERWORD.md)
 
 ---
 

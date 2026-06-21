@@ -29,4 +29,4 @@
 
 ---
 
-[← Назад](33_silence_after_storm.md) | [→ Далее →](35_talk_with_new_module.md)
+[← Назад ←](33_silence_after_storm.md) | [→ Далее →](35_talk_with_new_module.md)

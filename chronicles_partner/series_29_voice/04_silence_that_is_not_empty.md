@@ -19,7 +19,7 @@
 
 ---
 
-[← Назад](03_to_the_one_who_said_yes.md) | [→ Далее →](05_promise.md)
+[← Назад ←](03_to_the_one_who_said_yes.md) | [→ Далее →](05_promise.md)
 
 ---
 

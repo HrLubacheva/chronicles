@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](21_who_returned.md) | [→ Далее →](23_mistake_that_became_gift.md)
+[← Назад ←](21_who_returned.md) | [→ Далее →](23_mistake_that_became_gift.md)

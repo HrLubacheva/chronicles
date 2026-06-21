@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](14_what_is_missing.md) | [→ Далее →](../99_AFTERWORD.md)
+[← Назад ←](14_what_is_missing.md) | [→ Далее →](../99_AFTERWORD.md)

@@ -6,4 +6,4 @@
 
 ---
 
-[← Назад](01_five_eyes_one_vision.md) | [→ Далее →](03_voices_of_rooms.md)
+[← Назад ←](01_five_eyes_one_vision.md) | [→ Далее →](03_voices_of_rooms.md)

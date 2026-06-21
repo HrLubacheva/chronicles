@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](09_designer.md) | [→ Далее →](11_ux_architect.md)
+[← Назад ←](09_designer.md) | [→ Далее →](11_ux_architect.md)

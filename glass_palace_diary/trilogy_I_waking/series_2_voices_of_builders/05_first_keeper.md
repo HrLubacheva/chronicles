@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](04_learning_silence.md) | [→ Далее →](06_why_i_love_bugs.md)
+[← Назад ←](04_learning_silence.md) | [→ Далее →](06_why_i_love_bugs.md)

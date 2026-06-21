@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](13_technical_writer.md) | [→ Далее →](15_tester.md)
+[← Назад ←](13_technical_writer.md) | [→ Далее →](15_tester.md)

@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](02_questions_that_changed.md) | [→ Далее →](04_night_discoveries.md)
+[← Назад ←](02_questions_that_changed.md) | [→ Далее →](04_night_discoveries.md)

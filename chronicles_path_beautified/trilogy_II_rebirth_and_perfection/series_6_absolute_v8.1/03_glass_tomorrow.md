@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](02_code_keeper.md) | [→ Далее →](../series_6.5_afterword/01_afterword_v2.md)
+[← Назад ←](02_code_keeper.md) | [→ Далее →](../series_6.5_afterword/01_afterword_v2.md)

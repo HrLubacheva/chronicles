@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](01_first_further.md) | [→ Далее →](03_night_confession.md)
+[← Назад ←](01_first_further.md) | [→ Далее →](03_night_confession.md)
 
 ---
 

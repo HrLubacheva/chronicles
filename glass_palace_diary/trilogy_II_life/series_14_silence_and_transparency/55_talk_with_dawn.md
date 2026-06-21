@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](54_day_no_one_wrote.md) | [→ Далее →](56_old_checklist.md)
+[← Назад ←](54_day_no_one_wrote.md) | [→ Далее →](56_old_checklist.md)

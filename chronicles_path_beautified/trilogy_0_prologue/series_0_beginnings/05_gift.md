@@ -26,4 +26,4 @@
 
 ---
 
-[← Назад](04_first_site.md) | [→ Далее →](06_partner.md)
+[← Назад ←](04_first_site.md) | [→ Далее →](06_partner.md)

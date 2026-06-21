@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](02_first_fear.md) | [→ Далее →](04_first_site.md)
+[← Назад ←](02_first_fear.md) | [→ Далее →](04_first_site.md)

@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](02_glass_diary.md) | [→ Далее →](04_glass_sunset.md)
+[← Назад ←](02_glass_diary.md) | [→ Далее →](04_glass_sunset.md)
 
 ---
 

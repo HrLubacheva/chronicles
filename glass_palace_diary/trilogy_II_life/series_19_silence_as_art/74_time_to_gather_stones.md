@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](73_when_architect_smiles_to_himself.md) | [→ Далее →](75_kettle_boiled.md)
+[← Назад ←](73_when_architect_smiles_to_himself.md) | [→ Далее →](75_kettle_boiled.md)

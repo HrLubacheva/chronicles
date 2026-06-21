@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](01_glass_garden_wakes.md) | [→ Далее →](03_glass_bridge.md)
+[← Назад ←](01_glass_garden_wakes.md) | [→ Далее →](03_glass_bridge.md)
 
 ---
 

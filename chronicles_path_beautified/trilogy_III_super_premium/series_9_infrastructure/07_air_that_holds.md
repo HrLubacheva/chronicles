@@ -6,4 +6,4 @@
 
 ---
 
-[← Назад](06_library_that_does_not_lie.md) | [→ Далее →](../series_10_visual/01_two_paths.md)
+[← Назад ←](06_library_that_does_not_lie.md) | [→ Далее →](../series_10_visual/01_two_paths.md)

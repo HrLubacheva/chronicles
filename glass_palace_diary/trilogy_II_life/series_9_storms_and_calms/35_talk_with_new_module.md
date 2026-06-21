@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](34_smell_of_new_code.md) | [→ Далее →](36_architect_on_vacation.md)
+[← Назад ←](34_smell_of_new_code.md) | [→ Далее →](36_architect_on_vacation.md)

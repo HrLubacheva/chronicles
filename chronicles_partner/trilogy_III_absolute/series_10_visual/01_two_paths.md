@@ -18,7 +18,7 @@
 
 ---
 
-[← Назад](../series_9_infrastructure/07_air_that_holds.md) | [→ Далее →](02_light_running_on_glass.md)
+[← Назад ←](../series_9_infrastructure/07_air_that_holds.md) | [→ Далее →](02_light_running_on_glass.md)
 
 ---
 

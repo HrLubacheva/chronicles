@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](73_dry_case.md) | [→ Далее →](75_no_follow_up.md)
+[← Назад ←](73_dry_case.md) | [→ Далее →](75_no_follow_up.md)

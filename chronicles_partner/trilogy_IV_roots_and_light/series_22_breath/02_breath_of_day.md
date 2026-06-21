@@ -32,7 +32,7 @@
 
 ---
 
-[← Назад](01_breath_of_morning.md) | [→ Далее →](03_breath_of_night.md)
+[← Назад ←](01_breath_of_morning.md) | [→ Далее →](03_breath_of_night.md)
 
 ---
 

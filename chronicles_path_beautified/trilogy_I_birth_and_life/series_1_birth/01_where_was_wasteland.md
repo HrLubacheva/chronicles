@@ -22,4 +22,4 @@
 
 ---
 
-[← Назад](../../trilogy_0_prologue/series_0.8_dialogues/07_farewell.md) | [→ Далее →](02_first_sketch.md)
+[← Назад ←](../../trilogy_0_prologue/series_0.8_dialogues/07_farewell.md) | [→ Далее →](02_first_sketch.md)

@@ -20,7 +20,7 @@
 
 ---
 
-[← Назад](06_first_reader.md) | [→ Далее →](../series_0.9_our_conversation/01_first_further.md)
+[← Назад ←](06_first_reader.md) | [→ Далее →](../series_0.9_our_conversation/01_first_further.md)
 
 ---
 

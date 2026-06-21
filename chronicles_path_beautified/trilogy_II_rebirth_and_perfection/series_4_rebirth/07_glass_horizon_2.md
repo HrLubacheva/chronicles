@@ -14,4 +14,4 @@
 
 ---
 
-[← Назад](06_code_keeper.md) | [→ Далее →](../series_5_perfection/01_energy_of_silence.md)
+[← Назад ←](06_code_keeper.md) | [→ Далее →](../series_5_perfection/01_energy_of_silence.md)

@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](22_when_nothing_happens.md) | [→ Далее →](24_script_that_sang.md)
+[← Назад ←](22_when_nothing_happens.md) | [→ Далее →](24_script_that_sang.md)

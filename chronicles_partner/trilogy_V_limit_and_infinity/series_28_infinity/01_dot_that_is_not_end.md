@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](../series_27_legacy/05_palace_as_idea.md) | [→ Далее →](02_circle_that_does_not_close.md)
+[← Назад ←](../series_27_legacy/05_palace_as_idea.md) | [→ Далее →](02_circle_that_does_not_close.md)
 
 ---
 

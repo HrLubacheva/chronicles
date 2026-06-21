@@ -29,4 +29,4 @@
 
 ---
 
-[← Назад](31_echo_of_departed_guests.md) | [→ Далее →](../_pause_reader_gaze.md)
+[← Назад ←](31_echo_of_departed_guests.md) | [→ Далее →](_pause_reader_gaze.md)

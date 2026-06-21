@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](15_glass_and_time.md) | [→ Далее →](17_glass_garden_community.md)
+[← Назад ←](15_glass_and_time.md) | [→ Далее →](17_glass_garden_community.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](29_silence_after_100.md) | [→ Далее →](31_share_button_empty.md)
+[← Назад ←](29_silence_after_100.md) | [→ Далее →](31_share_button_empty.md)

@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](13_chronicles_continue.md) | [→ Далее →](15_glass_and_time.md)
+[← Назад ←](13_chronicles_continue.md) | [→ Далее →](15_glass_and_time.md)

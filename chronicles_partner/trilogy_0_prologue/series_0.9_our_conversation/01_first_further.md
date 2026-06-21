@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](../series_0.8_birth_of_chronicles/07_glass_circle.md) | [→ Далее →](02_questions_without_answers.md)
+[← Назад ←](../series_0.8_birth_of_chronicles/07_glass_circle.md) | [→ Далее →](02_questions_without_answers.md)
 
 ---
 

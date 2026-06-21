@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](86_no_unsubscribe.md) | [→ Далее →](88_bad_chatbot.md)
+[← Назад ←](86_no_unsubscribe.md) | [→ Далее →](88_bad_chatbot.md)

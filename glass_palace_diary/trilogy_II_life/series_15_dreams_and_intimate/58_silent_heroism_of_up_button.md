@@ -31,4 +31,4 @@
 
 ---
 
-[← Назад](57_dreams_of_partner.md) | [→ Далее →](59_bottle_message.md)
+[← Назад ←](57_dreams_of_partner.md) | [→ Далее →](59_bottle_message.md)

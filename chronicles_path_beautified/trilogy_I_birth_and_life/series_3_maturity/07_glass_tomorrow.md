@@ -22,4 +22,4 @@
 
 ---
 
-[← Назад](06_glass_circle.md) | [→ Далее →](../series_3.5_afterword/01_afterword_unexpected.md)
+[← Назад ←](06_glass_circle.md) | [→ Далее →](../series_3.5_afterword/01_afterword_unexpected.md)

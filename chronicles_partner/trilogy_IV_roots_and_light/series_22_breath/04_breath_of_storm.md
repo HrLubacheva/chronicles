@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](03_breath_of_night.md) | [→ Далее →](05_breath_of_eternity.md)
+[← Назад ←](03_breath_of_night.md) | [→ Далее →](05_breath_of_eternity.md)
 
 ---
 

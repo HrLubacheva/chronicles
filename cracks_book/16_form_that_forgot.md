@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](15_broken_print.md) | [→ Далее →](17_fake_dark_theme.md)
+[← Назад ←](15_broken_print.md) | [→ Далее →](17_fake_dark_theme.md)

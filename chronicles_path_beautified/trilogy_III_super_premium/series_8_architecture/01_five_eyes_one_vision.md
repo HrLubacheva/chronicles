@@ -6,4 +6,4 @@
 
 ---
 
-[← Назад](../series_7_unification/07_silence_after_unification.md) | [→ Далее →](02_breath_of_palace.md)
+[← Назад ←](../series_7_unification/07_silence_after_unification.md) | [→ Далее →](02_breath_of_palace.md)

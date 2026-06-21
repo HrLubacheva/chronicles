@@ -24,4 +24,4 @@
 
 ---
 
-[← Назад](02_glass_remembers.md) | [→ Далее →](04_glass_old_age.md)
+[← Назад ←](02_glass_remembers.md) | [→ Далее →](04_glass_old_age.md)

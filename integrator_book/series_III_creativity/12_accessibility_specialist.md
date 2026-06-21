@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](11_ux_architect.md) | [→ Далее →](../_pause_3.md)
+[← Назад ←](11_ux_architect.md) | [→ Далее →](_pause_3.md)

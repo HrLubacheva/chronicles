@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](17_fake_dark_theme.md) | [→ Далее →](19_small_buttons.md)
+[← Назад ←](17_fake_dark_theme.md) | [→ Далее →](19_small_buttons.md)

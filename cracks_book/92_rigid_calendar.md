@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](91_logo_no_theme.md) | [→ Далее →](93_quiz_no_progress.md)
+[← Назад ←](91_logo_no_theme.md) | [→ Далее →](93_quiz_no_progress.md)

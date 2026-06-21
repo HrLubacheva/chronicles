@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](48_promise_i_made_to_myself.md) | [→ Далее →](50_exactly_fifty.md)
+[← Назад ←](../series_12_blessing_and_maturity/48_promise_i_made_to_myself.md) | [→ Далее →](50_exactly_fifty.md)

@@ -18,7 +18,7 @@
 
 ---
 
-[← Назад](04_guard_in_guests_pocket.md) | [→ Далее →](06_library_that_does_not_lie.md)
+[← Назад ←](04_guard_in_guests_pocket.md) | [→ Далее →](06_library_that_does_not_lie.md)
 
 ---
 

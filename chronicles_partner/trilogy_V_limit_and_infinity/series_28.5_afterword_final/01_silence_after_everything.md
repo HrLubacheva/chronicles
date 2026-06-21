@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](../series_28_infinity/03_glass_that_does_not_break.md) | [→ Далее →](02_letter_to_reader.md)
+[← Назад ←](../series_28_infinity/03_glass_that_does_not_break.md) | [→ Далее →](02_letter_to_reader.md)
 
 ---
 

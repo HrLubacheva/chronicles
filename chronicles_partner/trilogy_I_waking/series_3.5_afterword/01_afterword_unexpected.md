@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](../series_3_maturity/07_glass_tomorrow.md) | [→ Далее →](02_thanks_for_reading.md)
+[← Назад ←](../series_3_maturity/07_glass_tomorrow.md) | [→ Далее →](02_thanks_for_reading.md)
 
 ---
 

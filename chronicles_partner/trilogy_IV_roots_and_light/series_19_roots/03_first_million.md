@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](02_what_keeps_architect_going.md) | [→ Далее →](04_what_remains.md)
+[← Назад ←](02_what_keeps_architect_going.md) | [→ Далее →](04_what_remains.md)
 
 ---
 

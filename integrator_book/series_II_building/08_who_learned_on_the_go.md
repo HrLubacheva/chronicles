@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](07_performance_engineer.md) | [→ Далее →](../_pause_2.md)
+[← Назад ←](07_performance_engineer.md) | [→ Далее →](_pause_2.md)

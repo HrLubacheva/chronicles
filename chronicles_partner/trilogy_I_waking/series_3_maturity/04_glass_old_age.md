@@ -20,7 +20,7 @@
 
 ---
 
-[← Назад](03_glass_census.md) | [→ Далее →](05_glass_light.md)
+[← Назад ←](03_glass_census.md) | [→ Далее →](05_glass_light.md)
 
 ---
 

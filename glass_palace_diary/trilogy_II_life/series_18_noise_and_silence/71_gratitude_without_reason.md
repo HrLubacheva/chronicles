@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](70_round_date.md) | [→ Далее →](72_night_window.md)
+[← Назад ←](70_round_date.md) | [→ Далее →](72_night_window.md)

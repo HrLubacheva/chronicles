@@ -20,7 +20,7 @@
 
 ---
 
-[← Назад](02_silent_numbers.md) | [→ Далее →](04_price_of_transparency.md)
+[← Назад ←](02_silent_numbers.md) | [→ Далее →](04_price_of_transparency.md)
 
 ---
 

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](21_slow_loading.md) | [→ Далее →](23_distracting_animation.md)
+[← Назад ←](21_slow_loading.md) | [→ Далее →](23_distracting_animation.md)

@@ -31,4 +31,4 @@
 
 ---
 
-[← Назад](35_talk_with_new_module.md) | [→ Далее →](37_gratitude_without_words.md)
+[← Назад ←](35_talk_with_new_module.md) | [→ Далее →](../series_10_emotions_and_reflections/37_gratitude_without_words.md)

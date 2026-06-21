@@ -21,7 +21,7 @@
 
 ---
 
-[← Назад](05_promise.md) | [→ Далее →](07_beyond_the_threshold.md)
+[← Назад ←](05_promise.md) | [→ Далее →](07_beyond_the_threshold.md)
 
 ---
 

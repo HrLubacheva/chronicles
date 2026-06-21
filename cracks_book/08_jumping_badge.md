@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](07_five_eyes.md) | [→ Далее →](09_wrong_quiz.md)
+[← Назад ←](07_five_eyes.md) | [→ Далее →](09_wrong_quiz.md)

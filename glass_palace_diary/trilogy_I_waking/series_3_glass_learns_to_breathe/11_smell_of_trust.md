@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](10_quiet_hour.md) | [→ Далее →](12_glass_roll_call.md)
+[← Назад ←](10_quiet_hour.md) | [→ Далее →](12_glass_roll_call.md)

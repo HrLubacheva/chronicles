@@ -23,4 +23,4 @@ Full-stack для меня — не про технологии. Про отве
 
 ---
 
-[← Назад](../_pause_1.md) | [→ Далее →](06_file_architect.md)
+[← Назад ←](../series_I_management/_pause_1.md) | [→ Далее →](06_file_architect.md)

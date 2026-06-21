@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](24_popup_that_stayed.md) | [→ Далее →](26_invisible_golden_frame.md)
+[← Назад ←](24_popup_that_stayed.md) | [→ Далее →](26_invisible_golden_frame.md)

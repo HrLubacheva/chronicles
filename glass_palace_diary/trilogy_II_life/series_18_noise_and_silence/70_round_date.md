@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](69_glass_noise_outside.md) | [→ Далее →](71_gratitude_without_reason.md)
+[← Назад ←](69_glass_noise_outside.md) | [→ Далее →](71_gratitude_without_reason.md)

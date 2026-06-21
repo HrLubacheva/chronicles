@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](42_silent_submit.md) | [→ Далее →](44_red_error.md)
+[← Назад ←](42_silent_submit.md) | [→ Далее →](44_red_error.md)

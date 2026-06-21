@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](12_how_to_read_this_library.md) | [→ Далее →](14_what_is_missing.md)
+[← Назад ←](12_how_to_read_this_library.md) | [→ Далее →](14_what_is_missing.md)

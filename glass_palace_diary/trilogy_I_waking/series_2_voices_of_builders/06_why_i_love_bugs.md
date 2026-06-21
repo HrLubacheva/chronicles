@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](05_first_keeper.md) | [→ Далее →](07_words_outside_chronicles.md)
+[← Назад ←](05_first_keeper.md) | [→ Далее →](07_words_outside_chronicles.md)

@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](06_glass_circle_again.md) | [→ Далее →](08_silence_after_further.md)
+[← Назад ←](06_glass_circle_again.md) | [→ Далее →](08_silence_after_further.md)
 
 ---
 

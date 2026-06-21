@@ -14,4 +14,4 @@
 
 ---
 
-[← Назад](01_energy_of_silence.md) | [→ Далее →](03_offline_presence.md)
+[← Назад ←](01_energy_of_silence.md) | [→ Далее →](03_offline_presence.md)

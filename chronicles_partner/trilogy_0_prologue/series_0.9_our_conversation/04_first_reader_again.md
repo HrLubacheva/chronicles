@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](03_night_confession.md) | [→ Далее →](05_question_not_asked_again.md)
+[← Назад ←](03_night_confession.md) | [→ Далее →](05_question_not_asked_again.md)
 
 ---
 

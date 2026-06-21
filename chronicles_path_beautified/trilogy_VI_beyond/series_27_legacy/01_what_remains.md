@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](../series_26_limit/05_limit_as_freedom.md) | [→ Далее →](02_who_will_come.md)
+[← Назад ←](../series_26_limit/05_limit_as_freedom.md) | [→ Далее →](02_who_will_come.md)

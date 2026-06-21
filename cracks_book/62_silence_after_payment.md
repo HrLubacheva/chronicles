@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](61_broken_promise.md) | [→ Далее →](63_telegram_ignored.md)
+[← Назад ←](61_broken_promise.md) | [→ Далее →](63_telegram_ignored.md)

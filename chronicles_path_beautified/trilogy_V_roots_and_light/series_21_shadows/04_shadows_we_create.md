@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](03_shadows_that_teach.md) | [→ Далее →](05_shadows_that_disappear.md)
+[← Назад ←](03_shadows_that_teach.md) | [→ Далее →](05_shadows_that_disappear.md)

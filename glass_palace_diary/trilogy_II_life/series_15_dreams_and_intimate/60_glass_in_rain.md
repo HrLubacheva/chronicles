@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](59_bottle_message.md) | [→ Далее →](61_joy_of_small_update.md)
+[← Назад ←](59_bottle_message.md) | [→ Далее →](../series_16_small_updates_and_release_morning/61_joy_of_small_update.md)

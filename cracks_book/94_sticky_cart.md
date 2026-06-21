@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](93_quiz_no_progress.md) | [→ Далее →](95_useless_search.md)
+[← Назад ←](93_quiz_no_progress.md) | [→ Далее →](95_useless_search.md)

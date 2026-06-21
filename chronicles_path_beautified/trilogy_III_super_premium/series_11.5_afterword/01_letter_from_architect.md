@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](../series_11_absolute_v9.0/05_doors_are_open.md) | [→ Далее →](02_letter_from_keeper.md)
+[← Назад ←](../series_11_absolute_v9.0/05_doors_are_open.md) | [→ Далее →](02_letter_from_keeper.md)

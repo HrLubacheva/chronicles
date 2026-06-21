@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](61_joy_of_small_update.md) | [→ Далее →](63_long_silence_of_partner.md)
+[← Назад ←](61_joy_of_small_update.md) | [→ Далее →](63_long_silence_of_partner.md)

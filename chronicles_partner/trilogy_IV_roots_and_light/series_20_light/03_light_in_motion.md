@@ -20,7 +20,7 @@
 
 ---
 
-[← Назад](02_light_in_darkness.md) | [→ Далее →](04_light_in_shadows.md)
+[← Назад ←](02_light_in_darkness.md) | [→ Далее →](04_light_in_shadows.md)
 
 ---
 

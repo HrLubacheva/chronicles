@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](77_trace_on_glass.md) | [→ Далее →](79_one_day_without_internet.md)
+[← Назад ←](77_trace_on_glass.md) | [→ Далее →](79_one_day_without_internet.md)

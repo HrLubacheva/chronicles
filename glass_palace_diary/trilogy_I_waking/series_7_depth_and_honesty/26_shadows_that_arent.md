@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](25_ghost_of_first_version.md) | [→ Далее →](27_first_ray_of_second_trilogy.md)
+[← Назад ←](25_ghost_of_first_version.md) | [→ Далее →](27_first_ray_of_second_trilogy.md)

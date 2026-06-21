@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](../_pause_3.md) | [→ Далее →](14_planner.md)
+[← Назад ←](../series_III_creativity/_pause_3.md) | [→ Далее →](14_planner.md)

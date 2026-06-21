@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](03_who_accepted_contradictions.md) | [→ Далее →](../_pause_1.md)
+[← Назад ←](03_who_accepted_contradictions.md) | [→ Далее →](_pause_1.md)

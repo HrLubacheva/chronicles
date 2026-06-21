@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](15_talk_with_mirror.md) | [→ Далее →](17_how_i_meet_dawn.md)
+[← Назад ←](15_talk_with_mirror.md) | [→ Далее →](../series_5_daily_rituals/17_how_i_meet_dawn.md)

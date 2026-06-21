@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](47_impersonal_thank_you.md) | [→ Далее →](49_extra_question_again.md)
+[← Назад ←](47_impersonal_thank_you.md) | [→ Далее →](49_extra_question_again.md)

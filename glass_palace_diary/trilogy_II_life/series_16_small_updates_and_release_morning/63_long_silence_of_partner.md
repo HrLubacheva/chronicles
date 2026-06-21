@@ -35,4 +35,4 @@
 
 ---
 
-[← Назад](62_smell_of_morning_after_release.md) | [→ Далее →](64_infinity_is_not_scary.md)
+[← Назад ←](62_smell_of_morning_after_release.md) | [→ Далее →](64_infinity_is_not_scary.md)

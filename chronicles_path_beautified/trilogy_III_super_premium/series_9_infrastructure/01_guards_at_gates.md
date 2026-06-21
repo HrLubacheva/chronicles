@@ -6,4 +6,4 @@
 
 ---
 
-[← Назад](../series_8_architecture/07_silence_that_holds.md) | [→ Далее →](02_forge_that_does_not_overheat.md)
+[← Назад ←](../series_8_architecture/07_silence_that_holds.md) | [→ Далее →](02_forge_that_does_not_overheat.md)

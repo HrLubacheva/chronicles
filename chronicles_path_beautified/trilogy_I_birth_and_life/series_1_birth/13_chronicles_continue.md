@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](12_glass_satellites.md) | [→ Далее →](14_voice_from_silence.md)
+[← Назад ←](12_glass_satellites.md) | [→ Далее →](14_voice_from_silence.md)

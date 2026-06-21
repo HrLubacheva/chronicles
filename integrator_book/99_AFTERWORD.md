@@ -13,4 +13,4 @@
 
 *Двери открыты.*
 
-[← Назад](series_V_human/20_integrator.md) | [→ Далее →](00_README.md)
+[← Назад ←](series_V_human/20_integrator.md) | [→ Оглавление →](00_README.md)

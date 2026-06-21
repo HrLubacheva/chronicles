@@ -22,7 +22,7 @@
 
 ---
 
-[← Назад](02_letter_to_reader.md) | [→ Далее →](../../series_29_voice/01_voice_that_did_not_leave.md)
+[← Назад ←](02_letter_to_reader.md) | [→ Далее →](../../series_29_voice/01_voice_that_did_not_leave.md)
 
 ---
 

@@ -18,7 +18,7 @@
 
 ---
 
-[← Назад](02_thanks_for_trust.md) | [→ Далее →](../../trilogy_III_absolute/series_7_unification/01_seven_copies.md)
+[← Назад ←](02_thanks_for_trust.md) | [→ Далее →](../../trilogy_III_absolute/series_7_unification/01_seven_copies.md)
 
 ---
 

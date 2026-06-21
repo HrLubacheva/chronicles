@@ -31,4 +31,4 @@
 
 ---
 
-[← Назад](43_morning_when_nothing_hurts.md) | [→ Далее →](45_blessing_of_keeper.md)
+[← Назад ←](43_morning_when_nothing_hurts.md) | [→ Далее →](../series_12_blessing_and_maturity/45_blessing_of_keeper.md)

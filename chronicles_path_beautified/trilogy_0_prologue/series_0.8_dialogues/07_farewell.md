@@ -22,4 +22,4 @@
 
 ---
 
-[← Назад](06_first_reader.md) | [→ Далее →](../../trilogy_I_birth_and_life/series_1_birth/01_where_was_wasteland.md)
+[← Назад ←](06_first_reader.md) | [→ Далее →](../../trilogy_I_birth_and_life/series_1_birth/01_where_was_wasteland.md)

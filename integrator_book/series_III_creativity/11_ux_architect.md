@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](10_animator.md) | [→ Далее →](12_accessibility_specialist.md)
+[← Назад ←](10_animator.md) | [→ Далее →](12_accessibility_specialist.md)

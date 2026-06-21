@@ -24,4 +24,4 @@
 
 ---
 
-[← Назад](01_future_near.md) | [→ Далее →](03_future_open.md)
+[← Назад ←](01_future_near.md) | [→ Далее →](03_future_open.md)

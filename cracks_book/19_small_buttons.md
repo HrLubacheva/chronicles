@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](18_screaming_headers.md) | [→ Далее →](20_broken_link.md)
+[← Назад ←](18_screaming_headers.md) | [→ Далее →](20_broken_link.md)

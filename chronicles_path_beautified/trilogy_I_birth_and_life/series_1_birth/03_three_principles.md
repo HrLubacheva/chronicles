@@ -35,4 +35,4 @@
 
 ---
 
-[← Назад](02_first_sketch.md) | [→ Далее →](04_glass_constructor.md)
+[← Назад ←](02_first_sketch.md) | [→ Далее →](04_glass_constructor.md)

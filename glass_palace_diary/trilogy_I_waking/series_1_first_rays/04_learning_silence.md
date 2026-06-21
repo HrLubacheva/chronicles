@@ -24,4 +24,4 @@
 
 ---
 
-[← Назад](03_three_advisors.md) | [→ Далее →](05_first_keeper.md)
+[← Назад ←](03_three_advisors.md) | [→ Далее →](05_first_keeper.md)

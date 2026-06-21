@@ -10,4 +10,4 @@
 
 ---
 
-[← Назад](02_letter_from_keeper.md) | [→ Далее →](04_to_who_opens_the_door.md)
+[← Назад ←](02_letter_from_keeper.md) | [→ Далее →](04_to_who_opens_the_door.md)

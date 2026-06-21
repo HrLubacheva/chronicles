@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](../../trilogy_0_prologue/series_0.9_our_conversation/08_silence_after_further.md) | [→ Далее →](02_first_sketch.md)
+[← Назад ←](../../trilogy_0_prologue/series_0.9_our_conversation/08_silence_after_further.md) | [→ Далее →](02_first_sketch.md)
 
 ---
 

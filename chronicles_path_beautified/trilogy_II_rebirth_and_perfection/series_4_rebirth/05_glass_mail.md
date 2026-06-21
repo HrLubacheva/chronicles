@@ -14,4 +14,4 @@
 
 ---
 
-[← Назад](04_third_way.md) | [→ Далее →](06_code_keeper.md)
+[← Назад ←](04_third_way.md) | [→ Далее →](06_code_keeper.md)

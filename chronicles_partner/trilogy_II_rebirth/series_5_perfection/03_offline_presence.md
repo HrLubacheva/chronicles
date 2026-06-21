@@ -25,7 +25,7 @@
 
 ---
 
-[← Назад](02_glass_cursor.md) | [→ Далее →](04_golden_section.md)
+[← Назад ←](02_glass_cursor.md) | [→ Далее →](04_golden_section.md)
 
 ---
 

@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](../_pause_2.md) | [→ Далее →](10_seven_books.md)
+[← Назад ←](../series_II_dialogue/_pause_2.md) | [→ Далее →](10_seven_books.md)

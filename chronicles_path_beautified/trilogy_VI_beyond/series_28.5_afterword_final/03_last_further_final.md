@@ -20,4 +20,4 @@
 
 ---
 
-[← Назад](02_letter_to_reader.md) | [→ Далее → Послесловие ](../../99_AFTERWORD.md)
+[← Назад ←](02_letter_to_reader.md) | [→ Далее → Послесловие ](../../99_AFTERWORD.md)

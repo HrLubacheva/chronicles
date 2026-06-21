@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](06_partner.md) | [→ Далее →](../series_0.8_dialogues/01_first_hello.md)
+[← Назад ←](06_partner.md) | [→ Далее →](../series_0.8_dialogues/01_first_hello.md)

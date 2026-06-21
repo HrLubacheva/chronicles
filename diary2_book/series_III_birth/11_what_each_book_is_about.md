@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](10_seven_books.md) | [→ Далее →](12_how_to_read_this_library.md)
+[← Назад ←](10_seven_books.md) | [→ Далее →](12_how_to_read_this_library.md)

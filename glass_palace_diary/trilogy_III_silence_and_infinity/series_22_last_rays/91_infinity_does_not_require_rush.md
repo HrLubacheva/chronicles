@@ -13,4 +13,4 @@
 
 ---
 
-[← Назад](90_short_as_a_ray.md) | [→ Далее →](92_reflection_without_question.md)
+[← Назад ←](90_short_as_a_ray.md) | [→ Далее →](92_reflection_without_question.md)

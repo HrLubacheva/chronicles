@@ -14,4 +14,4 @@
 
 ---
 
-[← Назад](02_boundaries_of_keeper.md) | [→ Далее →](04_boundaries_of_guest.md)
+[← Назад ←](02_boundaries_of_keeper.md) | [→ Далее →](04_boundaries_of_guest.md)

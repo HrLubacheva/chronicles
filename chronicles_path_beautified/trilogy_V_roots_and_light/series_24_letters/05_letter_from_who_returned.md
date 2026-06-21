@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](04_letter_from_teenager.md) | [→ Далее →](../series_25_future/01_future_near.md)
+[← Назад ←](04_letter_from_teenager.md) | [→ Далее →](../series_25_future/01_future_near.md)

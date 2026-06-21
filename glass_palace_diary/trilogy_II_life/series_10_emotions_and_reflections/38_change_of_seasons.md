@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](37_gratitude_without_words.md) | [→ Далее →](39_music_of_silence.md)
+[← Назад ←](37_gratitude_without_words.md) | [→ Далее →](39_music_of_silence.md)

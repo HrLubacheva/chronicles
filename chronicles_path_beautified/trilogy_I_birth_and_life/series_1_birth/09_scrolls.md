@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](08_protective_glass.md) | [→ Далее →](10_first_guests.md)
+[← Назад ←](08_protective_glass.md) | [→ Далее →](10_first_guests.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](43_quiz_no_celebration.md) | [→ Далее →](45_up_button_too_early.md)
+[← Назад ←](43_quiz_no_celebration.md) | [→ Далее →](45_up_button_too_early.md)

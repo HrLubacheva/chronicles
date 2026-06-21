@@ -14,4 +14,4 @@
 
 ---
 
-[← Назад](../series_4_rebirth/07_glass_horizon_2.md) | [→ Далее →](02_glass_cursor.md)
+[← Назад ←](../series_4_rebirth/07_glass_horizon_2.md) | [→ Далее →](02_glass_cursor.md)

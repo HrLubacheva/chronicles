@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](11_what_each_book_is_about.md) | [→ Далее →](13_what_i_learned.md)
+[← Назад ←](11_what_each_book_is_about.md) | [→ Далее →](13_what_i_learned.md)

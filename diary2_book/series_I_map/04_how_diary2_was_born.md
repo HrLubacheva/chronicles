@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](03_what_is_diary2.md) | [→ Далее →](../_pause_1.md)
+[← Назад ←](03_what_is_diary2.md) | [→ Далее →](../_pause_1.md)

@@ -22,4 +22,4 @@
 
 ---
 
-[← Назад](04_light_in_shadows.md) | [→ Далее →](../series_21_shadows/01_shadows_we_hide.md)
+[← Назад ←](04_light_in_shadows.md) | [→ Далее →](../series_21_shadows/01_shadows_we_hide.md)

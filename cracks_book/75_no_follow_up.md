@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](74_broken_screenshot.md) | [→ Далее →](_pause_after_75.md)
+[← Назад ←](74_broken_screenshot.md) | [→ Далее →](_pause_after_75.md)

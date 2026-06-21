@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад](18_writer.md) | [→ Далее →](20_integrator.md)
+[← Назад ←](18_writer.md) | [→ Далее →](20_integrator.md)

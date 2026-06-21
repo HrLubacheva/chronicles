@@ -34,7 +34,7 @@
 
 ---
 
-[← Назад](04_golden_section.md) | [→ Далее →](../series_6_absolute_v8.1/01_version_8_1.md)
+[← Назад ←](04_golden_section.md) | [→ Далее →](../series_6_absolute_v8.1/01_version_8_1.md)
 
 ---
 

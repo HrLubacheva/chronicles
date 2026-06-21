@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](12_glass_roll_call.md) | [→ Далее →](14_tour_for_newbie.md)
+[← Назад ←](../series_3_glass_learns_to_breathe/12_glass_roll_call.md) | [→ Далее →](14_tour_for_newbie.md)

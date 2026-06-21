@@ -6,4 +6,4 @@
 
 ---
 
-[← Назад](04_icon_that_knows_night_and_day.md) | [→ Далее →](../series_11_absolute_v9.0/01_morning_of_palace.md)
+[← Назад ←](04_icon_that_knows_night_and_day.md) | [→ Далее →](../series_11_absolute_v9.0/01_morning_of_palace.md)

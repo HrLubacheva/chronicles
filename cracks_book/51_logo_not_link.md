@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](_pause_after_50.md) | [→ Далее →](52_empty_breadcrumbs.md)
+[← Назад ←](_pause_after_50.md) | [→ Далее →](52_empty_breadcrumbs.md)

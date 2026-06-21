@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](80_empty_promise.md) | [→ Далее →](82_silent_break.md)
+[← Назад ←](80_empty_promise.md) | [→ Далее →](82_silent_break.md)

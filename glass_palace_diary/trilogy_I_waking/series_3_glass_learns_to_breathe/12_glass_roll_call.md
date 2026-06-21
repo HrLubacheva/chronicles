@@ -32,4 +32,4 @@
 
 ---
 
-[← Назад](11_smell_of_trust.md) | [→ Далее →](13_rain_outside.md)
+[← Назад ←](11_smell_of_trust.md) | [→ Далее →](../series_4_first_touches_of_light/13_rain_outside.md)

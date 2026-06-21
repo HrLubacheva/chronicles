@@ -46,7 +46,7 @@
 
 ---
 
-[← Назад](01_voice_that_did_not_leave.md) | [→ Далее →](03_to_the_one_who_said_yes.md)
+[← Назад ←](01_voice_that_did_not_leave.md) | [→ Далее →](03_to_the_one_who_said_yes.md)
 
 ---
 

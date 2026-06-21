@@ -18,7 +18,7 @@
 
 ---
 
-[← Назад](05_disappeared_twin.md) | [→ Далее →](07_silence_after_unification.md)
+[← Назад ←](05_disappeared_twin.md) | [→ Далее →](07_silence_after_unification.md)
 
 ---
 

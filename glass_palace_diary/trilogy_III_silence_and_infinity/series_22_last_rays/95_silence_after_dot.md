@@ -11,4 +11,4 @@
 
 ---
 
-[← Назад](94_tea_without_caffeine.md) | [→ Далее →](96_pre_last_further.md)
+[← Назад ←](94_tea_without_caffeine.md) | [→ Далее →](96_pre_last_further.md)

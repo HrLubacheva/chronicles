@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](06_voice_through_glass.md) | [→ Далее →](../series_8_architecture/01_five_eyes_one_vision.md)
+[← Назад ←](06_voice_through_glass.md) | [→ Далее →](../series_8_architecture/01_five_eyes_one_vision.md)

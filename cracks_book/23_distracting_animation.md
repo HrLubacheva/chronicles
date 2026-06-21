@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](22_auto_carousel.md) | [→ Далее →](24_popup_that_stayed.md)
+[← Назад ←](22_auto_carousel.md) | [→ Далее →](24_popup_that_stayed.md)

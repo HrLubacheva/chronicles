@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](60_price_depends_on_mood.md) | [→ Далее →](62_silence_after_payment.md)
+[← Назад ←](60_price_depends_on_mood.md) | [→ Далее →](62_silence_after_payment.md)

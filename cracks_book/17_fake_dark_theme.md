@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](16_form_that_forgot.md) | [→ Далее →](18_screaming_headers.md)
+[← Назад ←](16_form_that_forgot.md) | [→ Далее →](18_screaming_headers.md)

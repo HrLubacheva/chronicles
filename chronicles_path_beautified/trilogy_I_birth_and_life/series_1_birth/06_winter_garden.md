@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](05_oracle.md) | [→ Далее →](07_light_inside.md)
+[← Назад ←](05_oracle.md) | [→ Далее →](07_light_inside.md)

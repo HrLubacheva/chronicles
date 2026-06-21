@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](33_phone_mask_strict.md) | [→ Далее →](35_email_confirmation_lost.md)
+[← Назад ←](33_phone_mask_strict.md) | [→ Далее →](35_email_confirmation_lost.md)

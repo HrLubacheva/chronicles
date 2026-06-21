@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](67_question_ignored.md) | [→ Далее →](69_deadline_not_mentioned.md)
+[← Назад ←](67_question_ignored.md) | [→ Далее →](69_deadline_not_mentioned.md)

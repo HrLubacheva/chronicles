@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад](66_light_that_never_goes_out.md) | [→ Далее →](68_quiet_evening_without_plans.md)
+[← Назад ←](66_light_that_never_goes_out.md) | [→ Далее →](68_quiet_evening_without_plans.md)

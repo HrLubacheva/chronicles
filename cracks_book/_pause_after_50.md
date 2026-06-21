@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](50_new_window.md) | [→ Далее →](51_logo_not_link.md)
+[← Назад ←](50_new_window.md) | [→ Далее →](51_logo_not_link.md)

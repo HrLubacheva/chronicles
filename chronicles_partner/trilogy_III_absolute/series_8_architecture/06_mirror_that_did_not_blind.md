@@ -18,7 +18,7 @@
 
 ---
 
-[← Назад](05_names_that_disappeared.md) | [→ Далее →](07_silence_that_holds.md)
+[← Назад ←](05_names_that_disappeared.md) | [→ Далее →](07_silence_that_holds.md)
 
 ---
 

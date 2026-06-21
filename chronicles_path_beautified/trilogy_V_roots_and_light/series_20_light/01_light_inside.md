@@ -16,4 +16,4 @@
 
 ---
 
-[← Назад](../series_19_roots/05_to_those_who_build_now.md) | [→ Далее →](02_light_in_darkness.md)
+[← Назад ←](../series_19_roots/05_to_those_who_build_now.md) | [→ Далее →](02_light_in_darkness.md)

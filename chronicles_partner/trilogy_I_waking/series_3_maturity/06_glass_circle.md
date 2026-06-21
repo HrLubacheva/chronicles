@@ -24,7 +24,7 @@
 
 ---
 
-[← Назад](05_glass_light.md) | [→ Далее →](07_glass_tomorrow.md)
+[← Назад ←](05_glass_light.md) | [→ Далее →](07_glass_tomorrow.md)
 
 ---
 

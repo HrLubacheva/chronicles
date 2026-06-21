@@ -24,4 +24,4 @@
 
 ---
 
-[← Назад](../series_1_birth/20_glass_horizon.md) | [→ Далее →](02_glass_diary.md)
+[← Назад ←](../series_1_birth/20_glass_horizon.md) | [→ Далее →](02_glass_diary.md)

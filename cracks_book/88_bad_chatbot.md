@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](87_no_pdf_invoice.md) | [→ Далее →](89_empty_404.md)
+[← Назад ←](87_no_pdf_invoice.md) | [→ Далее →](89_empty_404.md)

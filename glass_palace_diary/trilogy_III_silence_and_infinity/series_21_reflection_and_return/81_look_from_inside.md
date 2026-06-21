@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](80_intermediate_stop.md) | [→ Далее →](82_old_friend_returned.md)
+[← Назад ←](../series_20_traces_and_horizons/80_intermediate_stop.md) | [→ Далее →](82_old_friend_returned.md)

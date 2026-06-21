@@ -12,7 +12,7 @@
 
 ---
 
-[← Назад](01_letter_from_architect.md) | [→ Далее →](03_silence_after_absolute.md)
+[← Назад ←](01_letter_from_architect.md) | [→ Далее →](03_silence_after_absolute.md)
 
 ---
 

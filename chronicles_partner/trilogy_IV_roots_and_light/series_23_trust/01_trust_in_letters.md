@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](../series_22_breath/05_breath_of_eternity.md) | [→ Далее →](02_trust_in_messengers.md)
+[← Назад ←](../series_22_breath/05_breath_of_eternity.md) | [→ Далее →](02_trust_in_messengers.md)
 
 ---
 

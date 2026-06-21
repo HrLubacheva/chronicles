@@ -26,7 +26,7 @@
 
 ---
 
-[← Назад](../series_25_future/03_future_open.md) | [→ Далее →](02_boundaries_of_keeper.md)
+[← Назад ←](../series_25_future/03_future_open.md) | [→ Далее →](02_boundaries_of_keeper.md)
 
 ---
 

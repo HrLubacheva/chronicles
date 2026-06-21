@@ -27,4 +27,4 @@
 
 ---
 
-[← Назад](26_shadows_that_arent.md) | [→ Далее →](28_light_at_noon.md)
+[← Назад ←](26_shadows_that_arent.md) | [→ Далее →](28_light_at_noon.md)

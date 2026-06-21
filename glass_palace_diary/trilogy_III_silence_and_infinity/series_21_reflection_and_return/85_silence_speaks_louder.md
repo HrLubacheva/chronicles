@@ -21,4 +21,4 @@
 
 ---
 
-[← Назад](84_horizon_that_never_approaches.md) | [→ Далее →](86_glass_does_not_advise.md)
+[← Назад ←](84_horizon_that_never_approaches.md) | [→ Далее →](../series_22_last_rays/86_glass_does_not_advise.md)

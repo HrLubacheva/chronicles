@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](27_first_ray_of_second_trilogy.md) | [→ Далее →](29_guest_who_didnt_leave.md)
+[← Назад ←](27_first_ray_of_second_trilogy.md) | [→ Далее →](../series_8_rhythm_and_flow/29_guest_who_didnt_leave.md)

@@ -28,7 +28,7 @@
 
 ---
 
-[← Назад](07_first_stone_of_conversation.md) | [→ Далее →](../trilogy_I_waking/series_1_birth/01_where_was_wasteland.md)
+[← Назад ←](07_first_stone_of_conversation.md) | [→ Далее →](../trilogy_I_waking/series_1_birth/01_where_was_wasteland.md)
 
 ---
 

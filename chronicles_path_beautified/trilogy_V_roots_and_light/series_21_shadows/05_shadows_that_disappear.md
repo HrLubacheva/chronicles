@@ -20,4 +20,4 @@
 
 ---
 
-[← Назад](04_shadows_we_create.md) | [→ Далее →](../series_22_breath/01_breath_of_morning.md)
+[← Назад ←](04_shadows_we_create.md) | [→ Далее →](../series_22_breath/01_breath_of_morning.md)

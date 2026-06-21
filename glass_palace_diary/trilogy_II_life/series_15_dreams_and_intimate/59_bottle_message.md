@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](58_silent_heroism_of_up_button.md) | [→ Далее →](60_glass_in_rain.md)
+[← Назад ←](58_silent_heroism_of_up_button.md) | [→ Далее →](60_glass_in_rain.md)

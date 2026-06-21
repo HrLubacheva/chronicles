@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад](02_future_planned.md) | [→ Далее →](../../trilogy_VI_beyond/series_26_limit/01_boundaries_of_glass.md)
+[← Назад ←](02_future_planned.md) | [→ Далее →](../../trilogy_VI_beyond/series_26_limit/01_boundaries_of_glass.md)

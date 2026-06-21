@@ -23,7 +23,7 @@
 
 ---
 
-[← Назад](../../trilogy_I_waking/series_3.5_afterword/03_last_further.md) | [→ Далее →](02_reflection_in_glass.md)
+[← Назад ←](../../trilogy_I_waking/series_3.5_afterword/03_last_further.md) | [→ Далее →](02_reflection_in_glass.md)
 
 ---
 

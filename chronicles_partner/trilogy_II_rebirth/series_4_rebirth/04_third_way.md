@@ -34,7 +34,7 @@
 
 ---
 
-[← Назад](03_pulse_of_trust.md) | [→ Далее →](05_glass_mail.md)
+[← Назад ←](03_pulse_of_trust.md) | [→ Далее →](05_glass_mail.md)
 
 ---
 

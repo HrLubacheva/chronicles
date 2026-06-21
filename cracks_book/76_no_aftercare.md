@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](_pause_after_75.md) | [→ Далее →](77_vip_feels_normal.md)
+[← Назад ←](_pause_after_75.md) | [→ Далее →](77_vip_feels_normal.md)

@@ -19,4 +19,4 @@
 
 ---
 
-[← Назад](02_shadows_we_accepted.md) | [→ Далее →](04_shadows_we_create.md)
+[← Назад ←](02_shadows_we_accepted.md) | [→ Далее →](04_shadows_we_create.md)

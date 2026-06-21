@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](41_empty_description.md) | [→ Далее →](43_quiz_no_celebration.md)
+[← Назад ←](41_empty_description.md) | [→ Далее →](43_quiz_no_celebration.md)

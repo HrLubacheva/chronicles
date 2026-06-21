@@ -20,7 +20,7 @@
 
 ---
 
-[← Назад](../series_20_light/05_light_in_silence.md) | [→ Далее →](02_shadows_we_accepted.md)
+[← Назад ←](../series_20_light/05_light_in_silence.md) | [→ Далее →](02_shadows_we_accepted.md)
 
 ---
 

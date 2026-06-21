@@ -20,4 +20,4 @@
 
 ---
 
-[← Назад](01_shadows_we_hide.md) | [→ Далее →](03_shadows_that_teach.md)
+[← Назад ←](01_shadows_we_hide.md) | [→ Далее →](03_shadows_that_teach.md)

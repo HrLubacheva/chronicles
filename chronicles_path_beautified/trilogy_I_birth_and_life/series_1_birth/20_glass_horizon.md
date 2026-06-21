@@ -20,4 +20,4 @@
 
 ---
 
-[← Назад](19_glass_does_not_age.md) | [→ Далее →](../series_2_life/01_glass_garden_wakes.md)
+[← Назад ←](19_glass_does_not_age.md) | [→ Далее →](../series_2_life/01_glass_garden_wakes.md)

@@ -15,4 +15,4 @@
 
 ---
 
-[← Назад](01_first_hello.md) | [→ Далее →](03_moments_of_silence.md)
+[← Назад ←](01_first_hello.md) | [→ Далее →](03_moments_of_silence.md)

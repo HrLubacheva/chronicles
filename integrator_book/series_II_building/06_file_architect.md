@@ -23,4 +23,4 @@
 
 ---
 
-[← Назад](05_fullstack_builder.md) | [→ Далее →](07_performance_engineer.md)
+[← Назад ←](05_fullstack_builder.md) | [→ Далее →](07_performance_engineer.md)

@@ -8,4 +8,4 @@
 
 ---
 
-[← Назад](28_wrong_shadow.md) | [→ Далее →](30_favicon_that_didnt_change.md)
+[← Назад ←](28_wrong_shadow.md) | [→ Далее →](30_favicon_that_didnt_change.md)

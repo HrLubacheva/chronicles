@@ -11,4 +11,4 @@
 
 ---
 
-[← Назад](96_pre_last_further.md) | [→ Далее →](98_almost_hundred.md)
+[← Назад ←](96_pre_last_further.md) | [→ Далее →](98_almost_hundred.md)

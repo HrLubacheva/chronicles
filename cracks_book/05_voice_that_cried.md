@@ -12,4 +12,4 @@
 
 ---
 
-[← Назад](04_two_guides.md) | [→ Далее →](06_price_mismatch.md)
+[← Назад ←](04_two_guides.md) | [→ Далее →](06_price_mismatch.md)
