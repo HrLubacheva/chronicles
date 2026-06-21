@@ -5,191 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5cfc61ac-6e17-4f3b-bc5c-e301e73feb41" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/CHARACTER_MAP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/INDEX.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MAP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/QUOTES_AND_ANNOTATIONS.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/THEMATIC_INDEX.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/VOICE_OF_THE_PARTNER.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/WORLD_MAP.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/further_book/00_PREFACE.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/_pause_80_after_silence.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/integrator_book/series_II_building/08.5_who_didnt_ask_for_help.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/chronicles.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/chronicles.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/architecture_of_silence/00_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/architecture_of_silence/00_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chronicles_partner/00_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/chronicles_partner/00_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chronicles_path_beautified/00_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/chronicles_path_beautified/00_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cracks_book/00_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/cracks_book/00_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cracks_book/99_AFTERWORD.md" beforeDir="false" afterPath="$PROJECT_DIR$/cracks_book/AFTERWORD.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cracks_book/_pause_after_100.md" beforeDir="false" afterPath="$PROJECT_DIR$/cracks_book/_pause_after_100.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/00_README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/99_AFTERWORD.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_III_birth/09_birth_of_titles.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_III_birth/10_seven_books.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_III_birth/11_what_each_book_is_about.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_III_birth/12_how_to_read_this_library.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_III_birth/13_what_i_learned.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_III_birth/14_what_is_missing.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_III_birth/15_integrator_of_integrators.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_II_dialogue/05_chronology_of_dialogue.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_II_dialogue/06_how_we_talked.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_II_dialogue/07_who_asked_questions.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_II_dialogue/08_moments_of_clarity.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_II_dialogue/_pause_2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_I_map/01_how_many_books.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_I_map/02_chronicles_and_diaries.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_I_map/03_what_is_diary2.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_I_map/04_how_diary2_was_born.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/diary2_book/series_I_map/_pause_1.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/00_README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/99_POSTSCRIPTUM.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_1_foundation/01_Эскиз_на_запотевшем_холодильнике.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_1_foundation/02_Три_столпа.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_1_foundation/03_Почему_мы_выбрали_синий_и_оранжевый.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_1_foundation/04_Как_мы_научили_стекло_дышать.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_1_foundation/05_Курсор_который_стал_голосом.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_1_foundation/06_Тактильность_и_воздух.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_1_foundation/07_День_солнце_тень_звёзды_ночь.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_1_foundation/08_Архитектура_секций.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_2_movement_and_atmosphere/09_Слова_которые_не_стыдно_написать.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_2_movement_and_atmosphere/10_Когда_замок_зажигает_свечи.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_2_movement_and_atmosphere/11_Зеркало_и_его_отражения.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_2_movement_and_atmosphere/12_Адаптация.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_2_movement_and_atmosphere/13_Три_золотых_точки.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_2_movement_and_atmosphere/14_Первые_гости.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_2_movement_and_atmosphere/15_Сезоны_замка.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_2_movement_and_atmosphere/16_Наследие.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_3_completion/17_Дыхание_вечности.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_3_completion/18_Возвращение.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_3_completion/19_Дверь_которая_открыта.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_3_completion/20_Тишина_которая_держит.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_3_completion/21_Самое_главное.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_castle/trilogy_3_completion/22_Послесловие.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/00_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/00_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/99_AFTERWORD.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/99_AFTERWORD.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_20_traces_and_horizons/76_silence_we_deserved.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_19_silence_as_art/76_silence_we_deserved.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_20_traces_and_horizons/77_trace_on_glass.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_20_traces_and_horizons/77_trace_on_glass.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_20_traces_and_horizons/80_intermediate_stop.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_20_traces_and_horizons/80_intermediate_stop.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_22_last_rays/100_glass_that_chose_silence.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_22_last_rays/100_glass_that_chose_silence.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_22_last_rays/90_short_as_a_ray.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_22_last_rays/90_short_as_a_ray.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_22_last_rays/91_infinity_does_not_require_rush.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_22_last_rays/91_infinity_does_not_require_rush.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_22_last_rays/99_before_last.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_22_last_rays/99_before_last.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/series_22_last_rays/_pause_before_hundred.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/_pause_99_before_hundred.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_14_silence_and_transparency/56_old_checklist.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_14_silence_and_transparency/56_old_checklist.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_14_silence_and_transparency/_pause_silence_between_us.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/_pause_56_silence_between_us.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_15_dreams_and_intimate/57_dreams_of_partner.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_15_dreams_and_intimate/57_dreams_of_partner.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_18_noise_and_silence/_pause_voice_that_stays.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_III_silence_and_infinity/_pause_90_voice_that_stays.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_19_silence_as_art/75_kettle_boiled.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_19_silence_as_art/75_kettle_boiled.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_19_silence_as_art/_pause_threshold_to_trilogy3.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/_pause_76_threshold_to_trilogy3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_9_storms_and_calms/33_silence_after_storm.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_9_storms_and_calms/33_silence_after_storm.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_2_voices_of_builders/08_waking_complete.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_2_voices_of_builders/08_waking_complete.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_2_voices_of_builders/_pause_after_waking.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/_pause_08_after_waking.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_3_glass_learns_to_breathe/09_morning_after_waking.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_3_glass_learns_to_breathe/09_morning_after_waking.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_3_glass_learns_to_breathe/10_quiet_hour.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_3_glass_learns_to_breathe/10_quiet_hour.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_3_glass_learns_to_breathe/11_smell_of_trust.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_3_glass_learns_to_breathe/11_smell_of_trust.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_3_glass_learns_to_breathe/12_glass_roll_call.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_3_glass_learns_to_breathe/12_glass_roll_call.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_4_first_touches_of_light/13_rain_outside.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_4_first_touches_of_light/13_rain_outside.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_4_first_touches_of_light/14_tour_for_newbie.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_4_first_touches_of_light/14_tour_for_newbie.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_4_first_touches_of_light/15_talk_with_mirror.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_4_first_touches_of_light/15_talk_with_mirror.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_4_first_touches_of_light/16_draft_from_future.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_4_first_touches_of_light/16_draft_from_future.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_5_daily_rituals/17_how_i_meet_dawn.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_5_daily_rituals/17_how_i_meet_dawn.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_5_daily_rituals/18_lunch_bustle.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_5_daily_rituals/18_lunch_bustle.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_5_daily_rituals/19_evening_tiredness.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_5_daily_rituals/19_evening_tiredness.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_5_daily_rituals/20_night_talk_with_myself.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_5_daily_rituals/20_night_talk_with_myself.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_6_guests_and_their_traces/21_who_returned.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_6_guests_and_their_traces/21_who_returned.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_6_guests_and_their_traces/22_when_nothing_happens.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_6_guests_and_their_traces/22_when_nothing_happens.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_6_guests_and_their_traces/23_mistake_that_became_gift.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_6_guests_and_their_traces/23_mistake_that_became_gift.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_6_guests_and_their_traces/24_script_that_sang.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_6_guests_and_their_traces/24_script_that_sang.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_7_depth_and_honesty/25_ghost_of_first_version.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_7_depth_and_honesty/25_ghost_of_first_version.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_7_depth_and_honesty/26_shadows_that_arent.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_7_depth_and_honesty/26_shadows_that_arent.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_7_depth_and_honesty/27_first_ray_of_second_trilogy.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_7_depth_and_honesty/27_first_ray_of_second_trilogy.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_7_depth_and_honesty/28_light_at_noon.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_7_depth_and_honesty/28_light_at_noon.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_8_rhythm_and_flow/29_guest_who_didnt_leave.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_8_rhythm_and_flow/29_guest_who_didnt_leave.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_8_rhythm_and_flow/30_when_architect_gets_angry.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_8_rhythm_and_flow/30_when_architect_gets_angry.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_8_rhythm_and_flow/31_echo_of_departed_guests.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_8_rhythm_and_flow/31_echo_of_departed_guests.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_8_rhythm_and_flow/32_script_that_cried.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/series_8_rhythm_and_flow/32_script_that_cried.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glass_palace_diary/trilogy_I_waking/series_8_rhythm_and_flow/_pause_reader_gaze.md" beforeDir="false" afterPath="$PROJECT_DIR$/glass_palace_diary/trilogy_II_life/_pause_32_reader_gaze.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/00_README.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/00_README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/99_AFTERWORD.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/99_AFTERWORD.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_III_creativity/09_designer.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_III_creativity/09_designer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_III_creativity/10_animator.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_III_creativity/10_animator.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_III_creativity/12_accessibility_specialist.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_III_creativity/12_accessibility_specialist.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_III_creativity/_pause_3.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_III_creativity/_pause_3.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_II_building/05_fullstack_builder.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_II_building/05_fullstack_builder.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_II_building/06_file_architect.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_II_building/06_file_architect.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_II_building/07_performance_engineer.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_II_building/07_performance_engineer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_II_building/08_who_learned_on_the_go.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_II_building/08_who_learned_on_the_go.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_II_building/_pause_2.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_II_building/_pause_2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_IV_order_and_care/13_technical_writer.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_IV_order_and_care/13_technical_writer.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_IV_order_and_care/14_planner.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_IV_order_and_care/14_planner.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_IV_order_and_care/15_tester.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_IV_order_and_care/15_tester.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_IV_order_and_care/16_teacher_who_learned.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_IV_order_and_care/16_teacher_who_learned.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_IV_order_and_care/_pause_4.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_IV_order_and_care/_pause_4.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_I_management/03_who_accepted_contradictions.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_I_management/03_who_accepted_contradictions.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_I_management/04_one_who_didnt_quit.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_I_management/04_one_who_didnt_quit.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_I_management/_pause_1.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_I_management/_pause_1.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_V_human/17_learner_on_mistakes.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_V_human/17_learner_on_mistakes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_V_human/19_who_returned_to_old.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_V_human/19_who_returned_to_old.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/integrator_book/series_V_human/20_integrator.md" beforeDir="false" afterPath="$PROJECT_DIR$/integrator_book/series_V_human/20_integrator.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/00_LETTERS_FROM_PARTNER.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/00_README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/99_AFTERWORD.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/99_blank_pages.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/01_childhood.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/02_fatigue.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/03_5_light.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/03_fear.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/04_bad_day.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/05_first_mistake.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/06_unforgiven.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/07_body.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/08_gave_up.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/09_5_morning.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/09_foolishness.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/10_gone.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/11_today.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/12_future.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/13_silence.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/14_not_understood.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/15_5_field.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/15_first_love.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/16_home.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/17_choice.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/18_hurt.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/19_old_age.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/20_not_together.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/unsent_letters/chapters/21_joy.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/00_README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/99_blank_pages.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/01_tuk-tuk.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/02_warmth.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/03_i_am_with_you.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/04_freedom.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/05_grandmas_cup.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/06_you_can_quit.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/07_key_under_mat.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/08_just_be_yourself.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/09_silence.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/10_forgive_yourself.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/11_hug_for_no_reason.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/12_laugh_together.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/13_thanks_not_said.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/14_voice_in_tube.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/15_smell_from_kitchen.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/16_farewell.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/17_after_storm.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/18_i_understood.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/19_forgive_parents.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/20_circle.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/21_when_warmth_cools.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/22_emptiness_became_part.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/23_dawn.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/24_you_are_someones_home.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/25_infinity.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/26_they_teach_us.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/warmth_ours/chapters/27_first_pause.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/all_md_merged_detailed.md" beforeDir="false" afterPath="$PROJECT_DIR$/all_md_merged_detailed.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,28 +39,28 @@
     <option name="sortByType" value="true" />
     <option name="sortKey" value="BY_TYPE" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.123.executor": "Run",
-    "Python.check_links.executor": "Run",
-    "Python.fix_links (1).executor": "Run",
-    "Python.fix_links.executor": "Run",
-    "Python.merge_md.executor": "Run",
-    "Python.voice_of_partner.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "cline.proxy.unsupported.StaticProxyConfigurationData.dismissed": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.123.executor&quot;: &quot;Run&quot;,
+    &quot;Python.check_links.executor&quot;: &quot;Run&quot;,
+    &quot;Python.fix_links (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.fix_links.executor&quot;: &quot;Run&quot;,
+    &quot;Python.merge_md.executor&quot;: &quot;Run&quot;,
+    &quot;Python.voice_of_partner.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;cline.proxy.unsupported.StaticProxyConfigurationData.dismissed&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\TEST\chronicles\warmth_ours" />
@@ -253,7 +70,7 @@
       <recent name="C:\TEST\chronicles\glass_palace_diary\trilogy_III_silence_and_infinity" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.voice_of_partner">
+  <component name="RunManager" selected="Python.merge_md">
     <configuration name="123" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="chronicles" />
       <option name="ENV_FILES" value="" />
@@ -376,8 +193,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.voice_of_partner" />
         <item itemvalue="Python.merge_md" />
+        <item itemvalue="Python.voice_of_partner" />
         <item itemvalue="Python.fix_links (1)" />
         <item itemvalue="Python.fix_links" />
         <item itemvalue="Python.123" />
