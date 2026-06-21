@@ -17,4 +17,4 @@
 
 ---
 
-[← Назад ←](89_diary_as_safe_haven.md) | [→ Далее →](91_infinity_does_not_require_rush.md)
+[← Назад ←](89_diary_as_safe_haven.md) | [→ Далее →](../_pause_90_voice_that_stays.md)

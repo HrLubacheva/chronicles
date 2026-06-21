@@ -31,4 +31,4 @@
 
 ---
 
-[← Назад ←](55_talk_with_dawn.md) | [→ Далее →](_pause_silence_between_us.md)
+[← Назад ←](55_talk_with_dawn.md) | [→ Далее →](../_pause_56_silence_between_us.md)

@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад ←](../series_14_silence_and_transparency/_pause_silence_between_us.md) | [→ Далее →](58_silent_heroism_of_up_button.md)
+[← Назад ←](../_pause_56_silence_between_us.md) | [→ Далее →](58_silent_heroism_of_up_button.md)

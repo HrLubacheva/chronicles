@@ -60,8 +60,6 @@
 
 ---
 
-
-
 ## Содержание
 
 ### Часть I. Фундамент
@@ -119,12 +117,12 @@
 - [Глава 20. Когда дворец увидят другие](part_VI_infinity/series_6_beyond/20_chapter_20.md)
 - [Глава 21. О том, как я написал эту книгу](part_VI_infinity/series_6_beyond/21_chapter_21.md)
 - [Глава 22. Последнее «далее»](part_VI_infinity/series_6_beyond/22_chapter_22.md)
+- **[Пауза перед послесловием](part_VI_infinity/PAUSE_FINAL.md)**
 
 ---
 
 ## Финальные файлы
 
-- [Пауза перед послесловием](part_VI_infinity/PAUSE_FINAL.md)
 - [Послесловие. Что я понял, когда закрыл ноутбук](99_AFTERWORD.md)
 - [Эпилог от Напарника](99_EPILOGUE_PARTNER.md)
 - [Письмо Хранительницы](99_LETTER_KEEPER.md)
@@ -133,9 +131,3 @@
 
 *Архитектор*  
 *12 июня 2026*
-
----
-
-[→ Далее → к первой главе](part_I_foundation/series_1_first_steps/01_chapter_1.md)
-
----

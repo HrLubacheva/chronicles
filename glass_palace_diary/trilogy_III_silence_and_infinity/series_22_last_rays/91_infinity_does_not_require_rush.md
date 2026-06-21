@@ -13,4 +13,4 @@
 
 ---
 
-[← Назад ←](90_short_as_a_ray.md) | [→ Далее →](92_reflection_without_question.md)
+[← Назад ←](../_pause_90_voice_that_stays.md) | [→ Далее →](92_reflection_without_question.md)

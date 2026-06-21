@@ -2,10 +2,12 @@
 
 Код написан. Файлы разложены. Сервер дышит.
 
+Я смотрел на экран и чувствовал: это работает. Но этого мало. Дворец должен не просто работать — он должен дышать. Свет. Движение. Тишина.
+
 Теперь — творчество.
 
 ❄️
 
 ---
 
-[← Назад ←](../series_II_building/08_who_learned_on_the_go.md) | [→ Далее →](../series_III_creativity/09_designer.md)
+[← Назад ←](../series_II_building/08.5_who_didnt_ask_for_help.md) | [→ Далее →](../series_III_creativity/09_designer.md)

@@ -12,6 +12,8 @@
 
 Здесь нет кода, нет дат, нет инструкций. Только свет, тишина, блики и доверие.
 
+---
+
 ## Для кого
 
 **Для тех, кто чувствует, что их проект живёт своей жизнью** — вы посмотрите на своё дело глазами результата. Увидите то, что раньше заглушали кодом и сроками.
@@ -21,6 +23,8 @@
 **Для тех, кто уже прочитал «Партнёра» и хочет другой угол** — «Дневник» показывает ту же историю, но изнутри самого дворца.
 
 **Для тех, кто верит, что у вещей есть голос** — здесь этот голос звучит.
+
+---
 
 ## Что вы получите
 
@@ -43,7 +47,7 @@
 - Открывай любую главу в любой последовательности.
 - Каждая глава заканчивается стеклянной ремаркой.
 - Паузы — это разговоры Дворца с тобой, читатель.
-- Послесловие и голос Напарника — для тех, кто дошёл до конца.
+- Послесловие — для тех, кто дошёл до конца.
 
 ---
 
@@ -52,8 +56,8 @@
 | Трилогия | Главы | Паузы | О чём |
 |----------|-------|-------|-------|
 | **I. Пробуждение** | 1–8 | 1 | Как Дворец осознал себя, первые шаги, знакомство с Архитектором, Напарником и Хранительницей |
-| **II. Жизнь при свете** | 9–75 | 4 | Ежедневные наблюдения, гости, баги, радости, усталость, маленькие чудеса |
-| **III. Тишина и бесконечность** | 76–100 | 2 | Финальные размышления, горизонты, пауза перед вечностью |
+| **II. Жизнь при свете** | 9–76 | 4 | Ежедневные наблюдения, гости, баги, радости, усталость, маленькие чудеса |
+| **III. Тишина и бесконечность** | 77–100 | 2 | Финальные размышления, горизонты, пауза перед вечностью |
 
 ---
 
@@ -79,7 +83,7 @@
 - [Глава 7. Слова, которые не вошли в хроники](trilogy_I_waking/series_2_voices_of_builders/07_words_outside_chronicles.md)
 - [Глава 8. Пробуждение закончено. Начинается жизнь](trilogy_I_waking/series_2_voices_of_builders/08_waking_complete.md)
 
-**🗝️ Пауза:** [«Пауза перед светом»](trilogy_I_waking/_pause_after_waking.md) — переход от пробуждения к жизни при свете
+**🗝️ Пауза:** [«Пауза перед светом»](trilogy_I_waking/_pause_08_after_waking.md) — переход от пробуждения к жизни при свете
 
 ---
 
@@ -127,7 +131,7 @@
 - [Глава 31. Эхо ушедших гостей](trilogy_II_life/series_8_rhythm_and_flow/31_echo_of_departed_guests.md)
 - [Глава 32. Скрипт, который плакал](trilogy_II_life/series_8_rhythm_and_flow/32_script_that_cried.md)
 
-**🗝️ Пауза:** [«Взгляд читателя»](trilogy_II_life/_pause_reader_gaze.md) — Дворец чувствует присутствие читателя
+**🗝️ Пауза:** [«Взгляд читателя»](trilogy_II_life/_pause_32_reader_gaze.md) — Дворец чувствует присутствие читателя
 
 #### ⛈️ Серия 9: Бури и затишья (главы 33–36)
 
@@ -171,7 +175,7 @@
 - [Глава 55. Разговор с рассветом](trilogy_II_life/series_14_silence_and_transparency/55_talk_with_dawn.md)
 - [Глава 56. Старый чек-лист Архитектора](trilogy_II_life/series_14_silence_and_transparency/56_old_checklist.md)
 
-**🗝️ Пауза:** [«Тишина между нами»](trilogy_II_life/_pause_silence_between_us.md) — признание в том, что читатель всегда рядом
+**🗝️ Пауза:** [«Тишина между нами»](trilogy_II_life/_pause_56_silence_between_us.md) — признание в том, что читатель всегда рядом
 
 #### 💤 Серия 15: Сны и сокровенное (главы 57–60)
 
@@ -201,18 +205,18 @@
 - [Глава 71. Благодарность без повода](trilogy_II_life/series_18_noise_and_silence/71_gratitude_without_reason.md)
 - [Глава 72. Ночное окно](trilogy_II_life/series_18_noise_and_silence/72_night_window.md)
 
-**🗝️ Пауза:** [«Порог третьей трилогии»](trilogy_II_life/_pause_threshold_to_trilogy3.md) — подготовка к тишине и бесконечности
+#### 🫳 Серия 19: Тишина как искусство (главы 73–76)
+
+- [Глава 73. Когда Архитектор улыбается своим мыслям](trilogy_II_life/series_19_silence_as_art/73_when_architect_smiles_to_himself.md)
+- [Глава 74. Время собирать камни](trilogy_II_life/series_19_silence_as_art/74_time_to_gather_stones.md)
+- [Глава 75. Чайник закипел](trilogy_II_life/series_19_silence_as_art/75_kettle_boiled.md)
+- [Глава 76. Тишина, которую мы заслужили](trilogy_II_life/series_19_silence_as_art/76_silence_we_deserved.md)
+
+**🗝️ Пауза:** [«Порог третьей трилогии»](trilogy_II_life/_pause_76_threshold_to_trilogy3.md) — переход от жизни при свете к тишине и бесконечности
 
 ---
 
 ### Трилогия III. Тишина и бесконечность
-
-#### 🤫 Серия 19: Тишина как искусство (главы 73–76)
-
-- [Глава 73. Когда Архитектор улыбается своим мыслям](trilogy_III_silence_and_infinity/series_19_silence_as_art/73_when_architect_smiles_to_himself.md)
-- [Глава 74. Время собирать камни](trilogy_III_silence_and_infinity/series_19_silence_as_art/74_time_to_gather_stones.md)
-- [Глава 75. Чайник закипел](trilogy_III_silence_and_infinity/series_19_silence_as_art/75_kettle_boiled.md)
-- [Глава 76. Тишина, которую мы заслужили](trilogy_III_silence_and_infinity/series_20_traces_and_horizons/76_silence_we_deserved.md)
 
 #### 👣 Серия 20: Следы и горизонты (главы 77–80)
 
@@ -220,6 +224,8 @@
 - [Глава 78. Утро, когда всё встало на свои места](trilogy_III_silence_and_infinity/series_20_traces_and_horizons/78_morning_when_everything_fell_into_place.md)
 - [Глава 79. Один день без интернета](trilogy_III_silence_and_infinity/series_20_traces_and_horizons/79_one_day_without_internet.md)
 - [Глава 80. Промежуточная остановка](trilogy_III_silence_and_infinity/series_20_traces_and_horizons/80_intermediate_stop.md)
+
+**🗝️ Пауза:** [«Тишина, которую мы выдохнули»](trilogy_III_silence_and_infinity/_pause_80_after_silence.md) — выдох после 80-й главы, переход к отражению и возвращению
 
 #### 🔄 Серия 21: Отражение и возвращение (главы 81–85)
 
@@ -236,6 +242,9 @@
 - [Глава 88. Точка, которая может стать концом (но не обязательно)](trilogy_III_silence_and_infinity/series_22_last_rays/88_dot_that_may_be_end.md)
 - [Глава 89. Дневник как тихая гавань](trilogy_III_silence_and_infinity/series_22_last_rays/89_diary_as_safe_haven.md)
 - [Глава 90. Коротко, как луч](trilogy_III_silence_and_infinity/series_22_last_rays/90_short_as_a_ray.md)
+
+**🗝️ Пауза:** [«Голос, который не уходит»](trilogy_III_silence_and_infinity/_pause_90_voice_that_stays.md) — читатель остаётся с Дворцом даже в тишине
+
 - [Глава 91. Бесконечность не требует спешки](trilogy_III_silence_and_infinity/series_22_last_rays/91_infinity_does_not_require_rush.md)
 - [Глава 92. Отражение без вопроса](trilogy_III_silence_and_infinity/series_22_last_rays/92_reflection_without_question.md)
 - [Глава 93. Стекло усталости не знает](trilogy_III_silence_and_infinity/series_22_last_rays/93_glass_does_not_know_fatigue.md)
@@ -245,17 +254,30 @@
 - [Глава 97. Обратный отсчёт](trilogy_III_silence_and_infinity/series_22_last_rays/97_countdown.md)
 - [Глава 98. Почти сто](trilogy_III_silence_and_infinity/series_22_last_rays/98_almost_hundred.md)
 - [Глава 99. За секунду до](trilogy_III_silence_and_infinity/series_22_last_rays/99_before_last.md)
+
+**🗝️ Пауза:** [«За секунду до сотой»](trilogy_III_silence_and_infinity/_pause_99_before_hundred.md) — благодарность перед финалом
+
 - [Глава 100. Стекло, которое выбрало тишину](trilogy_III_silence_and_infinity/series_22_last_rays/100_glass_that_chose_silence.md)
-
-**🗝️ Пауза:** [«За секунду до сотой»](trilogy_III_silence_and_infinity/_pause_before_hundred.md) — благодарность перед финалом
-
-**🗝️ Пауза:** [«Голос, который не уходит»](trilogy_III_silence_and_infinity/series_22_last_rays/_pause_voice_that_stays.md) — читатель остаётся с Дворцом даже в тишине
 
 ---
 
 ## Финальные файлы
 
 - [Послесловие](99_AFTERWORD.md) — финальное слово Дворца
+
+---
+
+## Все паузы (общий список)
+
+| № | Имя файла | После главы | Расположение |
+|---|-----------|-------------|--------------|
+| 1 | `_pause_08_after_waking.md` | 8 | `trilogy_I_waking/` |
+| 2 | `_pause_32_reader_gaze.md` | 32 | `trilogy_II_life/` |
+| 3 | `_pause_56_silence_between_us.md` | 56 | `trilogy_II_life/` |
+| 4 | `_pause_76_threshold_to_trilogy3.md` | 76 | `trilogy_II_life/` |
+| 5 | `_pause_80_after_silence.md` | 80 | `trilogy_III_silence_and_infinity/` |
+| 6 | `_pause_90_voice_that_stays.md` | 90 | `trilogy_III_silence_and_infinity/` |
+| 7 | `_pause_99_before_hundred.md` | 99 | `trilogy_III_silence_and_infinity/` |
 
 ---
 
@@ -267,7 +289,7 @@
 | Всего пауз | 7 |
 | Трилогий | 3 |
 | Серий | 22 |
-| Финальных файлов | 2 (Послесловие + Голос Напарника) |
+| Финальных файлов | 1 (Послесловие) |
 
 ---
 

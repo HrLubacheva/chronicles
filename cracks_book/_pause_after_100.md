@@ -18,4 +18,4 @@
 
 ---
 
-[← Назад ←](100_trust_not_perfection.md) | [→ Далее →](99_AFTERWORD.md)
+[← Назад ←](100_trust_not_perfection.md) | [→ Далее →](AFTERWORD.md)

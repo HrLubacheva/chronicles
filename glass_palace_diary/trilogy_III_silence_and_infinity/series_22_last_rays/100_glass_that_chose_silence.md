@@ -25,4 +25,4 @@
 
 ---
 
-[← Назад ←](99_before_last.md) | [→ Далее →](_pause_before_hundred.md)) — финальное слово Дворца
+[← Назад ←](../_pause_99_before_hundred.md) | [→ Далее →](../../99_AFTERWORD.md)
